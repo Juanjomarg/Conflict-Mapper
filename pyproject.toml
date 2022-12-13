@@ -8,6 +8,8 @@ packages = [{include = "conflict_mapper"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.5.2"
+geopandas = "^0.12.2"
 
 
 [build-system]
