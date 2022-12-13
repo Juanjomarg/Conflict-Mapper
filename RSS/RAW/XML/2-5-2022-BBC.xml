@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>
+   BBC News - World
+  </title>
+  <description>
+   BBC News - World
+  </description>
+  <link>
+   https://www.bbc.co.uk/news/
+  </link>
+  <image>
+   <url>
+    https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif
+   </url>
+   <title>
+    BBC News - World
+   </title>
+   <link>
+    https://www.bbc.co.uk/news/
+   </link>
+  </image>
+  <generator>
+   RSS for Node
+  </generator>
+  <lastBuildDate>
+   Mon, 02 May 2022 21:08:59 GMT
+  </lastBuildDate>
+  <copyright>
+   Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.
+  </copyright>
+  <language>
+   en-gb
+  </language>
+  <ttl>
+   15
+  </ttl>
+  <item>
+   <title>
+    Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations
+   </title>
+   <description>
+    A Ukrainian commander at the Azovstal plant says hundreds are stuck and Russia has resumed shelling.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61296851
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 20:39:42 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Alabama hunt for missing prison inmate and guard
+   </title>
+   <description>
+    Police now believe the guard helped organise the escape and have issued a warrant for her arrest.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61294585
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 16:44:12 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Uefa announces further sanctions on Russian clubs and national teams amid Ukraine invasion
+   </title>
+   <description>
+    Russia is barred from competing in this summer's women's Euro 2022 while Russian clubs will also be banned from Uefa competitions next season.
+   </description>
+   <link>
+    https://www.bbc.co.uk/sport/football/61301238?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/sport/football/61301238
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 17:35:45 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish
+   </title>
+   <description>
+    The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-middle-east-61296682
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 21:07:12 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    South Africa's Cyril Ramaphosa abandons May Day rally after booing
+   </title>
+   <description>
+    President Ramaphosa was forced to leave a May Day event after angry workers stormed the stage.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61296810?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61296810
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 10:45:49 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Amazon will pay US staff travel expenses for abortions and other treatments
+   </title>
+   <description>
+    The firm will reimburse travel costs for various treatments in the US, including abortion.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61301911
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 19:04:24 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    EU accuses Apple of breaking competition law over contactless payments
+   </title>
+   <description>
+    The US tech giant denies it is restricting rivals' access to its mobile payments technology.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61300874?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61300874
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 16:38:23 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Qantas promises direct flights from Sydney to London and New York
+   </title>
+   <description>
+    Australia's carrier says its new fleet will be capable of direct flights to any city in the world.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-australia-61294894
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 13:15:03 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Haiti gang holding kidnapped diplomat for ransom
+   </title>
+   <description>
+    A gang infamous for kidnapping foreigners has seized a diplomat from the Dominican Republic.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61297538?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61297538
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 11:42:40 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Orange skies as Iraq hit by dust storm
+   </title>
+   <description>
+    Experts say the storms are increasing in frequency due to drought and declining rainfall.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-61297292?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-61297292
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 09:06:13 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Weather students die in crash after tornado chase
+   </title>
+   <description>
+    The three students crashed in wet weather, shortly after posting videos of a tornado in Kansas.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61300036?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61300036
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 16:02:16 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    EU divided over how to step away from Russian energy
+   </title>
+   <description>
+    EU energy ministers met to discuss a possible ban on Russian oil, but members remain split.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61298791
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 18:29:58 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine war: Families hide in cellars as Russia targets Donbas region
+   </title>
+   <description>
+    Those remaining in the Ukrainian city of Lysychansk near the front line live under constant shelling.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61284964?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61284964
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 04:57:26 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    General Belgrano: The opera singer who survived the sinking of the Argentine cruiser
+   </title>
+   <description>
+    In May 1982, the Argentine cruiser the General Belgrano was sunk by British torpedoes during the war over the Falkland or Malvinas Islands.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/stories-61272009?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/stories-61272009
+   </guid>
+   <pubDate>
+    Sun, 01 May 2022 23:01:02 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Angola's Joice Zau: The prize-winning poet who refuses to stay quiet
+   </title>
+   <description>
+    Joice Zau is determined to carry on despite being threatened for "telling the truth" in Angola.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61263834?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61263834
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 00:01:57 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Shanghai lockdown: The hard life of a homeless deliveryman
+   </title>
+   <description>
+    Many riders face a lack of shelter and safety while delivering supplies in a locked down city.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-china-61270253?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-china-61270253
+   </guid>
+   <pubDate>
+    Sun, 01 May 2022 23:49:21 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Emotional reunions as New Zealand reopens to tourists
+   </title>
+   <description>
+    The country has reopened its borders to visitors after a pandemic lockout of more than two years.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-61297026?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-61297026
+   </guid>
+   <pubDate>
+    Mon, 02 May 2022 08:11:44 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine war: Evacuation of Mariupol civilians under way
+   </title>
+   <description>
+    The UN says an operation to evacuate civilians trapped in a steelworks in Mariupol is under way.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61294744?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61294744
+   </guid>
+   <pubDate>
+    Sun, 01 May 2022 23:17:56 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Biden mocks Trump at White House press dinner
+   </title>
+   <description>
+    Joe Biden jokes about former president Donald Trump at the prestigious event hosted by Trevor Noah.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61290695?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61290695
+   </guid>
+   <pubDate>
+    Sun, 01 May 2022 13:24:54 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ros Atkins on… China’s zero-Covid lockdowns
+   </title>
+   <description>
+    Ros Atkins looks at why the Chinese government remains committed to its policy of eliminating all outbreaks of coronavirus.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-china-61262757?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-china-61262757
+   </guid>
+   <pubDate>
+    Sat, 30 Apr 2022 23:01:11 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Asylum in Denmark: Is the country guilty of double standards?
+   </title>
+   <description>
+    As thousands of Ukrainians are welcomed, the government plans to reduce the number of non-European refugees.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61273433?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61273433
+   </guid>
+   <pubDate>
+    Sat, 30 Apr 2022 23:01:18 GMT
+   </pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>
+   BBC News - World
+  </title>
+  <description>
+   BBC News - World
+  </description>
+  <link>
+   https://www.bbc.co.uk/news/
+  </link>
+  <image>
+   <url>
+    https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif
+   </url>
+   <title>
+    BBC News - World
+   </title>
+   <link>
+    https://www.bbc.co.uk/news/
+   </link>
+  </image>
+  <generator>
+   RSS for Node
+  </generator>
+  <lastBuildDate>
+   Thu, 05 May 2022 17:17:00 GMT
+  </lastBuildDate>
+  <copyright>
+   Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.
+  </copyright>
+  <language>
+   en-gb
+  </language>
+  <ttl>
+   15
+  </ttl>
+  <item>
+   <title>
+    Putin sorry for Lavrov's claim Hitler was part Jewish - Israel PM
+   </title>
+   <description>
+    Russia's foreign minister claimed that Nazi leader Adolf Hitler had Jewish blood, sparking outrage.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-middle-east-61339749?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-middle-east-61339749
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 17:16:42 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine war has dragged on, admits Putin ally Lukashenko
+   </title>
+   <description>
+    Belarus's authoritarian leader Lukashenko has defended the war but wants it to end.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61339742?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61339742
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 17:06:51 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Donbas fighting: Risking capture to evacuate the vulnerable from the front line
+   </title>
+   <description>
+    Civilian volunteers are going to the front line, but some have been detained by Russian forces.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61328947?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61328947
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 04:57:33 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Covid: World’s true pandemic death toll nearly 15 million, says WHO
+   </title>
+   <description>
+    These include deaths from Covid and from the indirect effects of the pandemic over two years worldwide.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/health-61327778?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/health-61327778
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 12:00:40 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    China building collapse: Woman rescued from rubble after six days
+   </title>
+   <description>
+    The collapse of a building in the city of Changsha is now known to have killed at least 26 people.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-china-61332324?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-china-61332324
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 13:48:41 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Kenya alarm after carrier bag mistaken for stray lion
+   </title>
+   <description>
+    The Kenyan villagers were on alert after some of their livestock had recently gone missing.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61335539?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61335539
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 14:11:29 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Elon Musk lines up $7bn backing for Twitter deal
+   </title>
+   <description>
+    The billionaire has tapped the likes of Oracle's Larry Ellison and Sequoia to finance the takeover.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61337622?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61337622
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 15:34:30 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Iraq dust storm leaves 5,000 people needing treatment
+   </title>
+   <description>
+    It is the seventh severe dust storm in weeks, turning skies orange and causing breathing problems.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-middle-east-61335124?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-middle-east-61335124
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 13:26:42 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Senegal midwives go on trial in Louga over Astou Sokhna's death
+   </title>
+   <description>
+    Astou Sokhna died after reportedly being refused a Caesarean, sparking a national outcry.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61335534?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61335534
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 16:59:33 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Turkey's cost of living soars nearly 70%
+   </title>
+   <description>
+    Everyday goods including food and transport costs have seen among the biggest annual increases.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61332272?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61332272
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 13:12:25 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Why 9 May Victory Day is so important for Russia
+   </title>
+   <description>
+    Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61332283
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 15:30:06 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    'There's power in names': Antigua unearths lost ancestors
+   </title>
+   <description>
+    A landmark genealogy project is unearthing the names of enslaved people whose stories were erased.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61174988?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61174988
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 23:08:42 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Wealthy Russians flee to Dubai to avoid sanctions
+   </title>
+   <description>
+    Property purchases by Russians in Dubai surged by 67% in the first quarter of 2022, a report says.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61257448?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61257448
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 08:20:40 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Myanmar civil war: ‘I saw my son’s body on Facebook’
+   </title>
+   <description>
+    After the Myanmar military entered his village, Joseph fled into the jungle but his 13-year-old was killed.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61327821?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61327821
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 23:01:13 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Africa's digital business: The women swapping shops for smartphones
+   </title>
+   <description>
+    Three African women explain how they have boosted their income by going digital since Covid.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61318779?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61318779
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 23:20:27 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Bill Gates on Elon Musk feud and Jeffrey Epstein meetings
+   </title>
+   <description>
+    The Microsoft tycoon talks to the BBC about divorce, conspiracy theories and Elon Musk.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/technology-61329167?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/technology-61329167
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 01:05:23 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Why Sigrid feels on top of the world
+   </title>
+   <description>
+    The pop star talks lockdown blues, singing Nirvana at school, and why she moved all her gold discs.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/entertainment-arts-61271404?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/entertainment-arts-61271404
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 23:22:52 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    How Covid-scarred Shanghai will finally exit lockdown
+   </title>
+   <description>
+    A mass clean-up is sweeping through Shanghai, with the city's gradual reopening expected to follow.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-china-61307148?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-china-61307148
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 23:18:03 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Russia rehearses World War Two victory parade
+   </title>
+   <description>
+    Military vehicles, weapons and soldiers were on display at a rehearsal for Russia's Victory Day parade.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61333748?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61333748
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 13:13:20 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Dust storm and wildfires seen from space
+   </title>
+   <description>
+    Satellite images show gusts of up to 60mph blowing dust across Colorado and plumes of smoke in New Mexico.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61333747?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61333747
+   </guid>
+   <pubDate>
+    Thu, 05 May 2022 09:58:23 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Disabled children 'dumped' in Ukrainian institutions
+   </title>
+   <description>
+    Thousands of disabled Ukrainian children reportedly left in institutions that can’t care for them.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61325277?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61325277
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 16:40:44 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Durban floods survivors: 'I thought the world was ending'
+   </title>
+   <description>
+    Moeketsi Manake and his family talk about losing everything, including their house, in the Durban floods.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61325457?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61325457
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 23:01:17 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Hungary will veto EU oil ban proposal - minister
+   </title>
+   <description>
+    Zoltán Kovács says the proposal is against the country's interests and would ruin the Hungarian economy.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61319518?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61319518
+   </guid>
+   <pubDate>
+    Wed, 04 May 2022 18:31:11 GMT
+   </pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>
+   BBC News - World
+  </title>
+  <description>
+   BBC News - World
+  </description>
+  <link>
+   https://www.bbc.co.uk/news/
+  </link>
+  <image>
+   <url>
+    https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif
+   </url>
+   <title>
+    BBC News - World
+   </title>
+   <link>
+    https://www.bbc.co.uk/news/
+   </link>
+  </image>
+  <generator>
+   RSS for Node
+  </generator>
+  <lastBuildDate>
+   Wed, 18 May 2022 17:08:22 GMT
+  </lastBuildDate>
+  <copyright>
+   Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.
+  </copyright>
+  <language>
+   en-gb
+  </language>
+  <ttl>
+   15
+  </ttl>
+  <item>
+   <title>
+    Russian soldier pleads guilty in first war crimes trial of Ukraine conflict
+   </title>
+   <description>
+    The 21-year-old admits killing an unarmed civilian, in Ukraine's first war crimes trial since war began.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61496428?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61496428
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 14:46:09 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Pennsylvania primary: Trump-backed 'Dr Oz' in cliffhanger vote count
+   </title>
+   <description>
+    Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61489046
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 08:18:30 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    AG Perarivalan: India top court frees killer of ex-PM Rajiv Gandhi
+   </title>
+   <description>
+    AG Perarivalan spent 30 years in jail for procuring batteries used in the bomb to kill India's former PM.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61489494?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61489494
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 14:38:55 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    US Soccer equal-pay deal could 'change game globally'
+   </title>
+   <description>
+    An equal-pay agreement between the United States men's and women's teams has been hailed as potentially "changing the game around the world".
+   </description>
+   <link>
+    https://www.bbc.co.uk/sport/football/61492703?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/sport/football/61492703
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 15:43:53 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    McDonald's and Wendy's sued for burger ads that mislead on size
+   </title>
+   <description>
+    A lawsuit accuses the firms of advertising burgers that look bigger than they actually are.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61497812?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61497812
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 17:07:06 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    China Eastern plane crash likely intentional, US reports say
+   </title>
+   <description>
+    Flight data reportedly indicates someone in the cockpit made the China Eastern Airlines jet crash.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61488976?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61488976
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 04:58:06 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Cyclone Yakecan batters Uruguay and Brazil
+   </title>
+   <description>
+    At least two people are dead and hundreds of thousands have been left without electricity.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61477708?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61477708
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 10:16:46 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Gambler to pay back Japanese Covid-19 fund he spent
+   </title>
+   <description>
+    The man's lawyer said his client gambled the pay-out after it was mistakenly paid to his bank account.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-61490436?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-61490436
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 12:34:00 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    US military probe finds no wrongdoing in deadly Syria air strike
+   </title>
+   <description>
+    Dozens of people, including women and children, were killed in the 2019 strike on an IS position.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61492436?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61492436
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 11:26:07 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Cyclist abandons race after popping cork in eye
+   </title>
+   <description>
+    Italy's Alberto Dainese is a surprise winner of stage 11 of the Giro d'Italia after Biniam Girmay was forced to abandon this year's race.
+   </description>
+   <link>
+    https://www.bbc.co.uk/sport/cycling/61490735?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/sport/cycling/61490735
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 15:57:24 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Lancet study: Pollution killed 2.3 million Indians in 2019
+   </title>
+   <description>
+    The report found that nearly 1.6 million deaths in India were due to air pollution alone.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61489488?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61489488
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 07:02:59 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine war: 'I had to stay below ground for more than 60 days'
+   </title>
+   <description>
+    Katerina spent more than two months beneath the besieged Azovstal steel plant in Mariupol, Ukraine.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61494853?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61494853
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 11:48:46 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Mariupol's Azovstal fighters: What next for Ukraine's captured soldiers
+   </title>
+   <description>
+    Ukraine wants to exchange them for Russian prisoners of war, but some in Russia want them put on trial.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61493182?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61493182
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 13:22:00 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Capitol riots loom large in Republican primaries
+   </title>
+   <description>
+    Deniers of the 2020 election results are among the biggest winners of the Republican primary
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61497962?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61497962
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 14:59:38 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Afghanistan: The secret girls school defying the Taliban
+   </title>
+   <description>
+    The teachers fear being arrested or beaten after the Taliban banned most teenage girls from education.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-61470748?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-61470748
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 23:49:23 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Australia election: A simple guide
+   </title>
+   <description>
+    Australians go to the polls on 21 May, for the country's first election since 2019.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-australia-61137648?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-australia-61137648
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 16:08:30 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Philly Lutaaya: The Ugandan singer who led the fight against HIV prejudice
+   </title>
+   <description>
+    HIV-positive Ugandan singer Philly Lutaaya was ostracised by some but his openness shifted attitudes.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61464435?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61464435
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 23:13:18 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Måneskin's crazy rise to fame: 'We only slept in our own beds 10 times last year'
+   </title>
+   <description>
+    The Italian rock band relive the highs and lows of becoming a global success after winning Eurovision.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/entertainment-arts-61477368?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/entertainment-arts-61477368
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 23:09:47 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Lebanon election results raise spectre of new power struggle
+   </title>
+   <description>
+    Prolonged deadlock could ensue after Hezbollah's allies lost seats to their rivals, says Anna Foster.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-middle-east-61476714?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-middle-east-61476714
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 16:43:41 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Mariupol: Key moments in the siege of the city
+   </title>
+   <description>
+    As Ukrainian fighters are evacuated from the Azovstal steelworks, how Russia has closed in on the city.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61179093?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61179093
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 18:25:00 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Buffalo shooting: How far-right killers are radicalised online
+   </title>
+   <description>
+    A movement of online extremists targets innocent people in shooting rampages that follow a similar blueprint.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/blogs-trending-61460468?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/blogs-trending-61460468
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 13:24:11 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Anti-abortion groups target women with misleading ads
+   </title>
+   <description>
+    Abortion providers describe a battle to put out accurate information.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/health-61320202?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/health-61320202
+   </guid>
+   <pubDate>
+    Mon, 16 May 2022 23:34:27 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Woman kidnapped as a child reunites with rescuer
+   </title>
+   <description>
+    Kathy Wrethman, from Australia, has finally come face-to-face with the man who saved her life.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-australia-61482700?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-australia-61482700
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 05:26:17 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    China's silenced feminist: How Sophia Huang Xueqin went missing
+   </title>
+   <description>
+    BBC Eye investigates the disappearance of Sophia Huang Xueqin, a high-profile feminist journalist who kick-started China’s #MeToo movement.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-china-61467135?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-china-61467135
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 23:09:02 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Scott Morrison crashes into a boy during football match
+   </title>
+   <description>
+    Scott Morrison was playing five-a-side on the campaign trail ahead of Australia's election on Saturday.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-australia-61493232?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-australia-61493232
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 10:12:24 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Sweden and Finland formally submit Nato applications
+   </title>
+   <description>
+    The alliance's secretary general Jens Stoltenberg says it is "a historic moment, which we must seize".
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61491639?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61491639
+   </guid>
+   <pubDate>
+    Wed, 18 May 2022 08:14:14 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Colombian robbery victim crashes car into thieves
+   </title>
+   <description>
+    The thieves stole a watch and mobile phone before the victim drove into them in his convertible.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61478036?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61478036
+   </guid>
+   <pubDate>
+    Tue, 17 May 2022 08:46:43 GMT
+   </pubDate>
+  </item>
+ </channel>
+</rss>
