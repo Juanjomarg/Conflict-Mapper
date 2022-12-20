@@ -25,7 +25,7 @@ def wiki_html_table_to_csv():
     print('Creando archivo ciudades_clean.csv')
     ciudades=frame
     ciudades.rename(columns = {'Population(2021 estimate)[1]':'Population','City name':'Name',"City name(in Ukrainian)":"Name(Ukranian)","Population(2001 census)":"Population(2001)","Populationchange":"Population_Change"}, inplace = True)
-    ciudades.to_csv(fr"..\\Infraestructura\\RAW\\Ciudades_clean.csv",index=False)
+    ciudades.to_csv(fr"./Infraestructura/RAW/Ciudades_clean.csv",index=False)
     print('Archivo ciudades_clean.csv creado\n')
 
 ###########################################################################
@@ -37,7 +37,7 @@ def wiki_html_table_to_csv():
 def add_coords_ciudades():
 
     print('Cargando archivo Ciudades_clean.csv')
-    ciudades_df=pd.read_csv(fr"..\\Infraestructura\\RAW\\Ciudades_clean.csv")
+    ciudades_df=pd.read_csv(fr"./Infraestructura/RAW/Ciudades_clean.csv")
     ciudades_df['Country'] = ciudades_df.apply(lambda _: 'ukraine', axis=1)
     ciudades_df['Full_address'] = ciudades_df.apply(lambda _: '', axis=1)
     ciudades_df['Geocoded_adress'] = ciudades_df.apply(lambda _: '', axis=1)
@@ -56,13 +56,13 @@ def add_coords_ciudades():
     ciudades_df[['Latitude', 'Longitude', 'Altitude']] = pd.DataFrame(ciudades_df['Point'].tolist(), index=ciudades_df.index)
 
     print(ciudades_df.head())
-    ciudades_df.to_csv(fr"..\\Infraestructura\\CSV\\Ciudades.csv",index=False)
+    ciudades_df.to_csv(fr"./Infraestructura/CSV/Ciudades.csv",index=False)
     print('Archivo Ciudades.csv creado')
 
 def add_coords_aeropuertos():
 
     print('Cargando archivo Aeropuertos_clean.csv')
-    aeropuertos_df=pd.read_csv(fr"..\\Infraestructura\\RAW\\Aeropuertos_clean.csv")
+    aeropuertos_df=pd.read_csv(fr"./Infraestructura/RAW/Aeropuertos_clean.csv")
     aeropuertos_df['Country'] = aeropuertos_df.apply(lambda _: 'ukraine', axis=1)
     aeropuertos_df['Full_address'] = aeropuertos_df.apply(lambda _: '', axis=1)
     aeropuertos_df['Geocoded_adress'] = aeropuertos_df.apply(lambda _: '', axis=1)
@@ -81,7 +81,7 @@ def add_coords_aeropuertos():
     aeropuertos_df[['Latitude', 'Longitude', 'Altitude']] = pd.DataFrame(aeropuertos_df['Point'].tolist(), index=aeropuertos_df.index)
 
     print(aeropuertos_df.head())
-    aeropuertos_df.to_csv(fr"..\\Infraestructura\\CSV\\Aeropuertos.csv",index=False)
+    aeropuertos_df.to_csv(fr"./Infraestructura/CSV/Aeropuertos.csv",index=False)
     print('Archivo Aeropuertos.csv creado')
 
 ###########################################################################

@@ -15,12 +15,12 @@ from Search.queries import main as main_queries
 ###########################################################################
 
 def cargar_silueta_general():
-  with open(fr"..\Mapas\archivos mapas\General.json") as sil_ucra:
+  with open(fr"./Mapas/archivos mapas/General.json") as sil_ucra:
     ukraine_sil = json.load(sil_ucra)
   return ukraine_sil
 
 def cargar_silueta_departamentos():
-  with open(fr"..\Mapas\archivos mapas\División interna.json") as sil_deps:
+  with open(fr"./Mapas/archivos mapas/División interna.json") as sil_deps:
     ukraine_deps = json.load(sil_deps)
   return ukraine_deps
 
@@ -28,7 +28,7 @@ def generar_mapa(**kwargs):
   coords_centro_ucrania=[48.43, 31.19]
   mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5.3 )
 
-  ciudades=pd.read_csv(fr'..\Search\Queried\Ciudades_news_count.csv')
+  ciudades=pd.read_csv(fr'./Search/Queried/Ciudades_news_count.csv')
   ciudades.dropna(axis=0, inplace=True)
   ciudades_problema=["Bar","Volodymyr"] 
   Ciudades_sin_problemas= ciudades[ciudades.Name.isin(ciudades_problema) == False]
@@ -51,7 +51,7 @@ def generar_mapa(**kwargs):
   else:
     print("Esa función no existe")
 
-  mapa.save(fr"..\Mapas\archivos mapas\index.html")
+  mapa.save(fr"./Mapas/archivos mapas/index.html")
 
 
 def añadir_capa_general(mapa):

@@ -70,15 +70,15 @@ def fecha_hoy():
 ###########################################################################
 
 def cargar_ciudades():
-  ciudades_df=pd.read_csv(fr'..\Infraestructura\CSV\Ciudades.csv',index_col=0)
+  ciudades_df=pd.read_csv(fr'./Infraestructura/CSV/Ciudades.csv',index_col=0)
   return ciudades_df
 
 def cargar_aeropuertos():
-  aeropuertos_df=pd.read_csv(fr'..\Infraestructura\CSV\Aeropuertos.csv',index_col=0)
+  aeropuertos_df=pd.read_csv(fr'./Infraestructura/CSV/Aeropuertos.csv',index_col=0)
   return aeropuertos_df
 
 def cargar_noticias():
-  noticias=pd.read_csv(fr'..\RSS\NEWS_CSV\NewsCSV.csv')
+  noticias=pd.read_csv(fr'./RSS/NEWS_CSV/NewsCSV.csv')
   return noticias
 
 def main():

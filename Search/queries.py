@@ -37,7 +37,7 @@ def contar_noticias_ciudades():
 
   keeplist=[]
   cities_clean = df_ciudades.drop(df_ciudades.columns.difference(keeplist), axis=1)
-  df_ciudades.to_csv(fr"..\\Search\\Queried\\Ciudades_news_count.csv")
+  df_ciudades.to_csv(fr"./Search/Queried/Ciudades_news_count.csv")
 
 def contar_noticias_aeropuertos():
   ciudades=cargar_ciudades()
@@ -66,7 +66,7 @@ def contar_noticias_aeropuertos():
 
   keeplist=[]
   airports_clean = df_aeropuertos.drop(df_aeropuertos.columns.difference(keeplist), axis=1)
-  df_aeropuertos.to_csv(fr"..\\Search\\Queried\\Aeropuertos_news_count.csv")
+  df_aeropuertos.to_csv(fr"./Search/Queried/Aeropuertos_news_count.csv")
 
 def noticias_solo_ucrania():
   ciudades=cargar_ciudades()
@@ -92,7 +92,7 @@ def noticias_solo_ucrania():
 
   keeplist=[]
   airports_clean = ciudades.drop(ciudades.columns.difference(keeplist), axis=1)
-  ciudades.to_csv(fr"..\\Search\\Queried\\Aeropuertos_news_count.csv")
+  ciudades.to_csv(fr"./Search/Queried/Aeropuertos_news_count.csv")
 
 ###########################################################################
 #

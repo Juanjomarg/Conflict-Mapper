@@ -1,0 +1,48 @@
+
+[2022-12-19 23:59:13] Traceback (most recent call last):
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 335, in <module>
+    main()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 330, in main
+    root = mapper()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 102, in __init__
+    self.iconbitmap(fr'./Interface/icon.ico')
+  File "/home/jj/.pyenv/versions/3.9.5/lib/python3.9/tkinter/__init__.py", line 2080, in wm_iconbitmap
+    return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
+_tkinter.TclError: bitmap "./Interface/icon.ico" not defined
+
+
+[2022-12-20 00:00:15] Traceback (most recent call last):
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 335, in <module>
+    main()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 330, in main
+    root = mapper()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 102, in __init__
+    self.iconbitmap(fr'./Interface/icon.ico')
+  File "/home/jj/.pyenv/versions/3.9.5/lib/python3.9/tkinter/__init__.py", line 2080, in wm_iconbitmap
+    return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
+_tkinter.TclError: bitmap "./Interface/icon.ico" not defined
+
+
+[2022-12-20 00:05:21] Traceback (most recent call last):
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 335, in <module>
+    main()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 330, in main
+    root = mapper()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 102, in __init__
+    self.iconbitmap(fr'./Interface/icon.ico')
+  File "/home/jj/.pyenv/versions/3.9.5/lib/python3.9/tkinter/__init__.py", line 2080, in wm_iconbitmap
+    return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
+_tkinter.TclError: bitmap "./Interface/icon.ico" not defined
+
+
+[2022-12-20 00:06:07] Traceback (most recent call last):
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 335, in <module>
+    main()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 330, in main
+    root = mapper()
+  File "/home/jj/Documents/Conflict-Mapper/Ukraine_Interface.py", line 102, in __init__
+    self.iconbitmap(fr'./icon.ico')
+  File "/home/jj/.pyenv/versions/3.9.5/lib/python3.9/tkinter/__init__.py", line 2080, in wm_iconbitmap
+    return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
+_tkinter.TclError: bitmap "./icon.ico" not defined
+
