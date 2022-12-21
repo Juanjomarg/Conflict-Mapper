@@ -41,7 +41,7 @@ class BrowserFrame(tk.Frame):
             #Abrir archivo index de la carpeta mapas/archivos mapas y cambiar la dirección según Chrome
             #Posteriormente pegar dicha URL abajo
             ##################################################################################################################################################################
-            self.browser = cef.CreateBrowserSync(cef_winfo, url=fr'file:///home/jj/Conflict-Mapper/Mapas/archivos%20mapas/index.html')
+            self.browser = cef.CreateBrowserSync(cef_winfo, url=fr'file:///home/jj/Documents/Conflict-Mapper/Mapas/archivos%20mapas/index.html')
 
             # start the browser handling loop
             self.cef_loop()
