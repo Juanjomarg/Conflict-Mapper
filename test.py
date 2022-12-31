@@ -1,34 +1,90 @@
-# Run this app with `python app.py` and
-# visit http://127.0.0.1:8050/ in your web browser.
-
-from dash import Dash, html, dcc
-import plotly.express as px
+import dash_bootstrap_components as dbc
+from dash import html, Dash,dcc
 import pandas as pd
+import plotly.express as px
 
-app = Dash(__name__)
+app = Dash(name=__name__,external_stylesheets=[dbc.themes.LUX])
 
-# assume you have a "long-form" data frame
-# see https://plotly.com/python/px-arguments/ for more options
-df = pd.DataFrame({
-    "Fruit": ["Apples", "Oranges", "Bananas", "Apples", "Oranges", "Bananas"],
-    "Amount": [4, 1, 2, 2, 4, 5],
-    "City": ["SF", "SF", "SF", "Montreal", "Montreal", "Montreal"]
-})
+PLOTLY_LOGO = "logo.png"
 
-fig = px.bar(df, x="Fruit", y="Amount", color="City", barmode="group")
+search_bar = dbc.Row(
+    [
+        dbc.Col(dbc.Input(type="search", placeholder="Search")),
+        dbc.Col(
+            dbc.Button(
+                "Search", color="primary", className="ms-2", n_clicks=0
+            ),
+            width="auto",   
+        ),
+    ],
+    className="g-0 ms-auto flex-nowrap mt-3 mt-md-0",
+    align="center",
+)
 
-app.layout = html.Div(children=[
-    html.H1(children='Hello Dash'),
+navbar = dbc.Navbar(
+    dbc.Container(
+        [
+            html.A(
+                # Use row and col to control vertical alignment of logo / brand
+                dbc.Row(
+                    [
+                        dbc.Col(html.Img(src=PLOTLY_LOGO, height="30px")),
+                        dbc.Col(dbc.NavbarBrand("Ukranian Conflict Mapper", class_name="ms-2")),
+                    ],
+                    align="center",
+                    className="g-0",
+                ),
+                href="https://plotly.com",
+                style={"textDecoration": "none"},
+            ),
+            dbc.NavbarToggler(id="navbar-toggler", n_clicks=0),
+            dbc.Collapse(
+                search_bar,
+                id="navbar-collapse",
+                is_open=False,
+                navbar=True,
+            ),
+        ],),
+)
 
-    html.Div(children='''
-        Dash: A web application framework for your data.
-    '''),
+row = html.Div(
+    [
+        dbc.Row(
+            children=[
+                dbc.Col(width={"size":4,"order":'first'},children=[html.Div(children=[
+                    html.H1(children=['Settings']),
+                    html.P(children=['Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend tincidunt ornare. Nam at egestas neque, nec hendrerit felis. Maecenas vehicula, sem nec tincidunt luctus, lectus turpis viverra massa, ut venenatis risus risus in odio. Maecenas sit amet eros in mi blandit ullamcorper dapibus nec eros. Nam varius purus venenatis, euismod metus in, pellentesque leo. Nulla facilisi. Aliquam luctus ex non orci rhoncus tristique. Sed rhoncus velit dolor, vel aliquam ipsum malesuada eu. Pellentesque rutrum lacus vel mauris egestas accumsan. Aenean lobortis nec mauris non hendrerit.'],style={'textAlign':'justify'}),
+                    html.Div(children=[
+                        html.P(children=['Select mapping mode: ']),
+                        dbc.DropdownMenu(
+                            label="Select one mode: ",
+                            children=[
+                                dbc.DropdownMenuItem("News based sizing"),
+                                dbc.DropdownMenuItem("Population based sizing"),])
+                    ]),
+                    
+                ])]),
+                dbc.Col(class_name='btn btn-warning disabled', width={"size":True,"order":'last'},children=[html.Div(children=[
 
-    dcc.Graph(
-        id='example-graph',
-        figure=fig
-    )
+                ])]),
+            ],
+
+        ),
+    ]
+)
+
+footer=dbc.Container(children=[
+    html.Div(html.Br()),
+    html.H1('Footer')
 ])
 
-if __name__ == '__main__':
+app.layout = dbc.Container(children=[
+    navbar,
+    html.Div(html.Br()),
+    row,
+    footer,
+
+],)
+
+if __name__=="__main__":
     app.run_server(debug=True)

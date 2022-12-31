@@ -31,12 +31,14 @@ from geopandas import tools
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 from shapely.geometry import Point
-import folium
 
 #Librerias viz
 
-import matplotlib
+import folium
 import plotly
+import plotly.express as px
+from dash import Dash, html, dcc
+
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
