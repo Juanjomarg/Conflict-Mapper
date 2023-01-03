@@ -1,7 +1,8 @@
-import dash_bootstrap_components as dbc
-from dash import html, Dash,dcc
-import pandas as pd
-import plotly.express as px
+from Python.libraries import *
+
+from Python.RSS_puller_parser import main as main_rss
+from Python.queries import main as main_queries
+from Python.mapper import main as main_mapper
 
 app = Dash(name=__name__,external_stylesheets=[dbc.themes.LUX])
 

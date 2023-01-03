@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dwsyn="http://rss.dw.com/syndication/dwsyn/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/modules/syndication/">
+ <channel rdf:about="https://rss.dw.com/syndication/feeds/rss-en-all.1573.rdf">
+  <description>
+   Deutsche Welle
+  </description>
+  <link>
+   http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf
+  </link>
+  <title>
+   Deutsche Welle
+  </title>
+  <sy:updatePeriod>
+   hourly
+  </sy:updatePeriod>
+  <sy:updateFequency>
+   4
+  </sy:updateFequency>
+  <sy:updateBase>
+   2002-05-01T00:00:00Z
+  </sy:updateBase>
+  <dc:date>
+   2022-05-20T02:21:43Z
+  </dc:date>
+  <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
+  <items>
+   <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/canada-to-ban-china-s-huawei-zte-from-5g-networks/a-61870419?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-playoff-advantage-hamburg-against-felix-magath-and-hertha-berlin/a-61869764?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/spain-exiled-ex-king-juan-carlos-returns-for-brief-visit/a-61845457?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eco-fascism-the-greenwashing-of-the-far-right/a-61867605?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nato-joe-biden-backs-sweden-finland-membership-bid/a-61859523?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/explained-the-mysterious-monkeypox-outbreak-in-uk-europe/a-61859359?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-senate-approves-40-billion-ukraine-aid-package-live-updates/a-61845391?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/russia-weaponizes-food-security-us-tells-un-meeting/a-61865923?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/g7-germany-pledges-€1-billion-in-grants-for-ukraine/a-61868266?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/thailand-what-happened-to-mass-anti-government-protests/a-61861179?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/herbal-medicines-that-really-work/a-61865033?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/taliban-orders-female-tv-presenters-to-cover-face-on-air/a-61859653?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/historian-christopher-clark-to-receive-european-media-award/a-61832172?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-ex-chancellor-schröder-loses-part-of-state-privileges/a-61843090?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/champions-league-how-barcelona-rose-to-challenge-lyon-s-dominance/a-61826930?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/guinea-bissau-s-political-crisis-deepens/a-61853451?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/european-parliament-backs-sanctions-against-germany-s-ex-chancellor-gerhard-schröder/a-61853701?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-police-end-inquiry-into-partygate-scandal-at-downing-street/a-61852967?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/asia-security-in-focus-as-biden-visits-south-korea-japan/a-61847610?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-one-person-injured-in-a-shooting-incident-at-a-high-school/a-61847686?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-dutch-police-arrest-3-over-atm-bombings/a-61847670?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-freiburg-way-a-specific-type-of-intelligence-and-football-for-everyone/a-61844735?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/happy-birthday-mr-president-famous-birthday-serenades/a-61837742?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/one-tiny-company-is-wrecking-the-american-solar-industry-why/a-61846726?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-natural-gas-price-spikes-as-demand-from-europe-grows/a-61830135?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/chancellor-olaf-scholz-tells-german-parliament-russia-must-not-win-this-war/a-61845874?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/conference-on-diverse-forms-of-global-feminist-protests/a-61840309?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/are-european-academics-helping-china-s-military/a-61834716?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/europa-league-final-frankfurt-break-glass-ceiling-as-new-era-begins-in-seville/a-61845456?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/shootout-in-seville-europa-league-glory-for-eintracht-frankfurt-after-victory-over-rangers/a-61844022?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/droughts-fires-and-floods-could-climate-change-decide-australia-s-election/a-61821853?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/health-tips-how-to-stay-safe-in-a-heat-wave/a-61822226?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germans-and-sex-it-s-complicated/a-53210116?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-dangers-of-app-based-delivery-work/a-61786310?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/carbon-pollution-pushed-environmental-breakdown-to-record-levels-in-2021/a-61831484?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nato-application-puts-finland-s-russian-trade-on-thin-ice/a-61829860?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-war-repatriated-pakistani-students-worry-for-their-future/a-61827198?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/donna-summer-10th-death-anniversary-of-disco-legend/a-17334510?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-will-lic-stake-sale-trigger-a-big-privatization-push/a-61821831?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cannes-opens-with-ukraine-s-zelenskyy-as-special-guest/a-61812363?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/explainer-northern-ireland-protocol-continues-to-cast-its-shadow/a-61818901?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/lockdowns-cripple-chinese-economy/a-61817370?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-state-election-leaves-chancellor-scholz-reeling/a-61816748?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cop15-ivory-coast-hosts-desertification-talks/a-61815049?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/food-security-in-space-farming-salad-in-moon-soil/a-61777814?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cannes-first-female-president-iris-knobloch/a-61767004?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/russia-looms-large-at-eu-us-trade-and-tech-talks-in-paris/a-61812879?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-tiktok-star-valeria-shashenok-chronicles-life-during-war/a-61811942?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/turkey-witnesses-bitcoin-frenzy-amid-economic-turmoil/a-61786507?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/women-s-bundesliga-why-copy-the-men-s-model/a-61810921?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/child-labor-on-the-rise-in-africa/a-61772211?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/war-in-ukraine-tourism-specialists-relate-their-experiences/a-61705114?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/last-show-of-benin-bronzes-in-cologne-before-their-return/a-61749285?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eurovision-song-contest-2022-ukraine-wins-the-public-s-hearts/a-61788818?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/opinion-the-bundesliga-is-going-stale/a-61747588?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/are-we-flushing-away-the-answer-to-our-fertilizer-shortages/a-61737037?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/even-isolated-states-like-north-korea-get-covid/a-61790865?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/what-caused-the-lastest-cryptocrash/a-61787326?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-perilous-life-of-migratory-birds/a-61710214?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/speak-up-what-your-voice-reveals-about-your-character/a-61733611?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/astronomers-produce-first-image-of-black-hole-at-center-of-milky-way/a-61776464?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cost-of-living-crisis-hits-consumers-as-uk-economy-struggles-with-inflation/a-61765236?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/africa-s-covid-19-vaccine-production-line-in-jeopardy/a-61756730?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/wildfires-in-russia-will-war-in-ukraine-limit-firefighting-response/a-61753044?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/global-warming-world-has-50-50-chance-of-hitting-1-5c-mark-soon/a-61743456?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-devastating-is-a-ddos-cyberattack/a-61748267?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-lithuania-is-freeing-itself-from-russian-energy/a-61738474?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ultra-long-haul-flights-your-body-and-mental-health/a-61714702?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/china-s-export-growth-slows-sharply-as-zero-covid-rules-hit-economy/a-61731968?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/why-do-humans-eat-so-much-meat/a-60735141?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/nashstore-russia-s-alternative-to-the-google-play-store/a-61712657?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/will-surging-energy-prices-derail-reforms-in-oil-exporting-middle-east/a-61675230?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/racism-in-germany-is-part-of-everyday-life/a-61700339?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/think-8-hours-of-sleep-is-best-think-again/a-61661946?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-how-drones-are-changing-the-way-of-war/a-61681013?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-overshoot-day-we-cannot-continue-like-this/a-61673016?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/covid-omicron-subvariants-escaping-the-previous-immunity/a-61673415?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/breed-accounts-for-less-than-10-of-a-dog-s-behavior/a-61634800?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/will-an-eu-oil-embargo-put-the-lights-out-at-schwedt-s-refinery/a-61668807?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/carbon-farming-climate-change-solution-or-greenwashing/a-61532175?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germans-split-over-heavy-weapons-deliveries-to-ukraine/a-61664515?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/brazil-dams-1-million-live-close-to-danger/a-61523548?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/swiping-right-on-climate-love-dating-apps-and-environmental-advocacy/a-61600741?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mars-probe-discovers-shocking-new-aurora/a-61610851?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/scientists-sound-alarm-bells-on-noise-pollution/a-61582252?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/beyond-ecology-the-trees-at-the-heart-of-our-culture/a-61554900?maca=en-rss-en-all-1573-rdf"/>
+   </rdf:Seq>
+  </items>
+ </channel>
+ <image rdf:about="https://rss.dw.com/images/DW-L-RGB_whitebg.png">
+  <url>
+   https://rss.dw.com/images/DW-L-RGB_whitebg.png
+  </url>
+  <link>
+   http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf
+  </link>
+  <title>
+   DW.COM
+  </title>
+  <description>
+   News, Analysis and Service from Germany and Europe - in 30 Languages
+  </description>
+ </image>
+ <item rdf:about="https://www.dw.com/en/canada-to-ban-china-s-huawei-zte-from-5g-networks/a-61870419?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Canada to ban China's Huawei, ZTE from 5G networks
+  </title>
+  <link>
+   https://www.dw.com/en/canada-to-ban-china-s-huawei-zte-from-5g-networks/a-61870419?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Canada's government said it would ban the use of the two Chinese telecommunications giants' 5G gear due to national security concerns. The move follows similar bans in other Western countries.
+  </description>
+  <dc:date>
+   2022-05-19T22:35:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61870419
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/bundesliga-playoff-advantage-hamburg-against-felix-magath-and-hertha-berlin/a-61869764?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Bundesliga playoff: Advantage Hamburg against Felix Magath and Hertha Berlin
+  </title>
+  <link>
+   https://www.dw.com/en/bundesliga-playoff-advantage-hamburg-against-felix-magath-and-hertha-berlin/a-61869764?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Four years after their first ever relegation, Hamburg have one foot back in the Bundesliga. Ludovit Reis' looped goal was a fluke, but HSV won't care. Hertha Berlin and Felix Magath are edging towards relegation.
+  </description>
+  <dc:date>
+   2022-05-19T20:47:00Z
+  </dc:date>
+  <dc:subject>
+   Sports
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61869764
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/spain-exiled-ex-king-juan-carlos-returns-for-brief-visit/a-61845457?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Spain: Exiled ex-King Juan Carlos returns for brief visit
+  </title>
+  <link>
+   https://www.dw.com/en/spain-exiled-ex-king-juan-carlos-returns-for-brief-visit/a-61845457?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The former Spanish monarch has returned to the country after spending nearly two years in self-imposed exile in the UAE. He was set to visit his son, King Felipe VI, in Madrid.
+  </description>
+  <dc:date>
+   2022-05-19T18:44:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61845457
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eco-fascism-the-greenwashing-of-the-far-right/a-61867605?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Eco-fascism: The greenwashing of the far right
+  </title>
+  <link>
+   https://www.dw.com/en/eco-fascism-the-greenwashing-of-the-far-right/a-61867605?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   White-supremacist killers are invoking environmental concerns to justify murder. But what is eco-fascism and why are people attracted to it?
+  </description>
+  <dc:date>
+   2022-05-19T18:33:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61867605
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nato-joe-biden-backs-sweden-finland-membership-bid/a-61859523?maca=en-rss-en-all-1573-rdf">
+  <title>
+   NATO: Joe Biden backs Sweden, Finland membership bid
+  </title>
+  <link>
+   https://www.dw.com/en/nato-joe-biden-backs-sweden-finland-membership-bid/a-61859523?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Although Turkey has doubled down on blocking Sweden and Finland's membership bids, Western leaders have expressed confidence the proceedings will move quickly.
+  </description>
+  <dc:date>
+   2022-05-19T17:47:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61859523
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/explained-the-mysterious-monkeypox-outbreak-in-uk-europe/a-61859359?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Explained: The mysterious monkeypox outbreak in UK, Europe
+  </title>
+  <link>
+   https://www.dw.com/en/explained-the-mysterious-monkeypox-outbreak-in-uk-europe/a-61859359?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The UK and other European countries have reported a small number of human monkeypox infections, a virus rarely seen in Europe. Health services remain puzzled over how the virus is transmitted.
+  </description>
+  <dc:date>
+   2022-05-19T17:47:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61859359
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-senate-approves-40-billion-ukraine-aid-package-live-updates/a-61845391?maca=en-rss-en-all-1573-rdf">
+  <title>
+   US Senate approves $40 billion Ukraine aid package — live updates
+  </title>
+  <link>
+   https://www.dw.com/en/us-senate-approves-40-billion-ukraine-aid-package-live-updates/a-61845391?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Meanwhile, the first Russian soldier to face trial for killing a civilian has asked the man's widow for "forgiveness." Ukrainian President Zelenskyy has warned of a long war. Follow DW for the latest.
+  </description>
+  <dc:date>
+   2022-05-19T17:27:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61845391
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/russia-weaponizes-food-security-us-tells-un-meeting/a-61865923?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Russia 'weaponizes' food security, US tells UN meeting
+  </title>
+  <link>
+   https://www.dw.com/en/russia-weaponizes-food-security-us-tells-un-meeting/a-61865923?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Washington's top diplomat has called on Russia to lift a blockade on Ukraine's Black Sea ports, while Russia's UN envoy said it was "absolutely false" that Moscow was blamed for global food insecurity.
+  </description>
+  <dc:date>
+   2022-05-19T17:13:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61865923
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/g7-germany-pledges-€1-billion-in-grants-for-ukraine/a-61868266?maca=en-rss-en-all-1573-rdf">
+  <title>
+   G7: Germany pledges €1 billion in grants for Ukraine
+  </title>
+  <link>
+   https://www.dw.com/en/g7-germany-pledges-€1-billion-in-grants-for-ukraine/a-61868266?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The influx of cash aims to support the financing of Ukraine's government, as Russia's war has decimated tax revenue. The grant is part of over €18 billion pledged by G7 finance ministers during their summit in Germany.
+  </description>
+  <dc:date>
+   2022-05-19T16:54:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61868266
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/thailand-what-happened-to-mass-anti-government-protests/a-61861179?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Thailand: What happened to mass anti-government protests?
+  </title>
+  <link>
+   https://www.dw.com/en/thailand-what-happened-to-mass-anti-government-protests/a-61861179?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   In 2020, Thai youth sparked the largest wave of anti-government protests since the 2014 military coup. But human rights activists say persecutions and systematic harassment have weakened the pro-democracy movement.
+  </description>
+  <dc:date>
+   2022-05-19T15:02:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61861179
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/herbal-medicines-that-really-work/a-61865033?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Herbal medicines that really work
+  </title>
+  <link>
+   https://www.dw.com/en/herbal-medicines-that-really-work/a-61865033?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Medicines have been extracted from plants for thousands of years and new ones are still being discovered. Here are several plant extracts with robust medical benefits.
+  </description>
+  <dc:date>
+   2022-05-19T14:50:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61865033
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/taliban-orders-female-tv-presenters-to-cover-face-on-air/a-61859653?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Taliban orders female TV presenters to cover face on air
+  </title>
+  <link>
+   https://www.dw.com/en/taliban-orders-female-tv-presenters-to-cover-face-on-air/a-61859653?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The Taliban authorities in Afghanistan have issued an official order that female journalists must cover their faces on television. The move comes days after authorities ordered women to cover their faces in public.
+  </description>
+  <dc:date>
+   2022-05-19T14:23:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61859653
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/historian-christopher-clark-to-receive-european-media-award/a-61832172?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Historian Christopher Clark to receive European media award
+  </title>
+  <link>
+   https://www.dw.com/en/historian-christopher-clark-to-receive-european-media-award/a-61832172?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The eminent historian and academic is being awarded the Charlemagne Award for his work on Anglo-German history. We take a look at his illustrious career.
+  </description>
+  <dc:date>
+   2022-05-19T13:12:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61832172
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-ex-chancellor-schröder-loses-part-of-state-privileges/a-61843090?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Germany: Ex-Chancellor Schröder loses part of state privileges
+  </title>
+  <link>
+   https://www.dw.com/en/germany-ex-chancellor-schröder-loses-part-of-state-privileges/a-61843090?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The former chancellor has come under heavy criticism for refusing to distance himself from Russia and Vladimir Putin. Now the German government is planning to take away his office and staff, without touching his pension.
+  </description>
+  <dc:date>
+   2022-05-19T13:09:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61843090
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/champions-league-how-barcelona-rose-to-challenge-lyon-s-dominance/a-61826930?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Champions League: How Barcelona rose to challenge Lyon's dominance
+  </title>
+  <link>
+   https://www.dw.com/en/champions-league-how-barcelona-rose-to-challenge-lyon-s-dominance/a-61826930?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Lyon dominated women's football in Europe for an entire decade. However, this year's Champions League final against Barcelona could mark a changing of the guard, one the Catalans have long prepared for.
+  </description>
+  <dc:date>
+   2022-05-19T12:22:00Z
+  </dc:date>
+  <dc:subject>
+   Sports
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61826930
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/guinea-bissau-s-political-crisis-deepens/a-61853451?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Guinea-Bissau's political crisis deepens
+  </title>
+  <link>
+   https://www.dw.com/en/guinea-bissau-s-political-crisis-deepens/a-61853451?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Opposition parties and constitutional experts have slammed President Umaro Sissoco Embalo's decision to dissolve parliament. The move has heightened fears in the coup-prone West African nation.
+  </description>
+  <dc:date>
+   2022-05-19T11:58:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61853451
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/european-parliament-backs-sanctions-against-germany-s-ex-chancellor-gerhard-schröder/a-61853701?maca=en-rss-en-all-1573-rdf">
+  <title>
+   European Parliament backs sanctions against Germany's ex-Chancellor Gerhard Schröder
+  </title>
+  <link>
+   https://www.dw.com/en/european-parliament-backs-sanctions-against-germany-s-ex-chancellor-gerhard-schröder/a-61853701?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The parliament has called for sanctions on former German Chancellor Gerhard Schröder because of his links to Russia.
+  </description>
+  <dc:date>
+   2022-05-19T11:13:00Z
+  </dc:date>
+  <dc:subject>
+   Germany
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61853701
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uk-police-end-inquiry-into-partygate-scandal-at-downing-street/a-61852967?maca=en-rss-en-all-1573-rdf">
+  <title>
+   UK: Police end inquiry into 'Partygate' scandal at Downing Street
+  </title>
+  <link>
+   https://www.dw.com/en/uk-police-end-inquiry-into-partygate-scandal-at-downing-street/a-61852967?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Police have ended an investigation into breaches of COVID lockdown rules that sparked outrage across the United Kingdom. Prime Minister Boris Johnson has not received any more fines.
+  </description>
+  <dc:date>
+   2022-05-19T10:26:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61852967
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/asia-security-in-focus-as-biden-visits-south-korea-japan/a-61847610?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Asia security in focus as Biden visits South Korea, Japan
+  </title>
+  <link>
+   https://www.dw.com/en/asia-security-in-focus-as-biden-visits-south-korea-japan/a-61847610?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   US President Joe Biden is aiming to boost ties with East Asian allies to face down a nuclear-armed North Korea and an increasingly expansionist China.
+  </description>
+  <dc:date>
+   2022-05-19T09:49:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61847610
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-one-person-injured-in-a-shooting-incident-at-a-high-school/a-61847686?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Germany: One person injured in a shooting incident at a high school
+  </title>
+  <link>
+   https://www.dw.com/en/germany-one-person-injured-in-a-shooting-incident-at-a-high-school/a-61847686?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   An armed suspect has been detained after one person was seriously injured in a shooting at a high school in the northern city of Bremerhaven, police said.
+  </description>
+  <dc:date>
+   2022-05-19T09:48:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61847686
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-dutch-police-arrest-3-over-atm-bombings/a-61847670?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Germany: Dutch police arrest 3 over ATM bombings
+  </title>
+  <link>
+   https://www.dw.com/en/germany-dutch-police-arrest-3-over-atm-bombings/a-61847670?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Suspects believed to have stolen almost €1 million after bombing several ATMs across Germany have been arrested. The operation was the result of Dutch-German cooperation.
+  </description>
+  <dc:date>
+   2022-05-19T09:31:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61847670
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/the-freiburg-way-a-specific-type-of-intelligence-and-football-for-everyone/a-61844735?maca=en-rss-en-all-1573-rdf">
+  <title>
+   The Freiburg Way: 'A specific type of intelligence' and 'football for everyone'
+  </title>
+  <link>
+   https://www.dw.com/en/the-freiburg-way-a-specific-type-of-intelligence-and-football-for-everyone/a-61844735?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   SC Freiburg will play RB Leipzig in their first ever German Cup final on Saturday. The two clubs are cut from very different cloth but, deep in the Black Forest, Freiburg are happy to continue on their own unique path.
+  </description>
+  <dc:date>
+   2022-05-19T09:21:00Z
+  </dc:date>
+  <dc:subject>
+   Sports
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61844735
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/happy-birthday-mr-president-famous-birthday-serenades/a-61837742?maca=en-rss-en-all-1573-rdf">
+  <title>
+   'Happy birthday, Mr. President' — famous birthday serenades
+  </title>
+  <link>
+   https://www.dw.com/en/happy-birthday-mr-president-famous-birthday-serenades/a-61837742?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   On this day 60 years ago, Marilyn Monroe famously serenaded John F. Kennedy for his birthday. But there are other legendary birthday songs.
+  </description>
+  <dc:date>
+   2022-05-19T08:59:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61837742
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/one-tiny-company-is-wrecking-the-american-solar-industry-why/a-61846726?maca=en-rss-en-all-1573-rdf">
+  <title>
+   One tiny company is wrecking the American solar industry – why?
+  </title>
+  <link>
+   https://www.dw.com/en/one-tiny-company-is-wrecking-the-american-solar-industry-why/a-61846726?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   A small US solar panels manufacturer is pushing for high tariffs on imports. This threatens the Biden administration's climate goals and the industry as a whole.
+  </description>
+  <dc:date>
+   2022-05-19T08:57:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61846726
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-natural-gas-price-spikes-as-demand-from-europe-grows/a-61830135?maca=en-rss-en-all-1573-rdf">
+  <title>
+   US natural gas price spikes as demand from Europe grows
+  </title>
+  <link>
+   https://www.dw.com/en/us-natural-gas-price-spikes-as-demand-from-europe-grows/a-61830135?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Natural gas prices in the United States have hit a 13-year high, partly due to Europe's demand for alternative energy sources in the wake of Russia's invasion of Ukraine.
+  </description>
+  <dc:date>
+   2022-05-19T08:16:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61830135
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/chancellor-olaf-scholz-tells-german-parliament-russia-must-not-win-this-war/a-61845874?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Chancellor Olaf Scholz tells German parliament 'Russia must not win this war'
+  </title>
+  <link>
+   https://www.dw.com/en/chancellor-olaf-scholz-tells-german-parliament-russia-must-not-win-this-war/a-61845874?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   German Chancellor Olaf Scholz has delivered a statement to the German parliament ahead of an EU summit on the war in Ukraine. Scholz described the war in Ukraine as the greatest crisis facing the EU in its history.
+  </description>
+  <dc:date>
+   2022-05-19T08:00:00Z
+  </dc:date>
+  <dc:subject>
+   News
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61845874
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/conference-on-diverse-forms-of-global-feminist-protests/a-61840309?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Conference on diverse forms of global feminist protests
+  </title>
+  <link>
+   https://www.dw.com/en/conference-on-diverse-forms-of-global-feminist-protests/a-61840309?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Violence against women is a global problem but women are successfully fighting back. The Goethe Institute's "Frequencies. Sharing Feminisms" festival shows how they do this.
+  </description>
+  <dc:date>
+   2022-05-19T07:30:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61840309
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/are-european-academics-helping-china-s-military/a-61834716?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Are European academics helping China's military?
+  </title>
+  <link>
+   https://www.dw.com/en/are-european-academics-helping-china-s-military/a-61834716?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   An investigation by DW and partners has found that European researchers have cooperated with China's National University of Defense Technology. The NUDT's purpose is to "Strengthen the Armed Forces and the Nation."
+  </description>
+  <dc:date>
+   2022-05-19T04:00:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61834716
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/europa-league-final-frankfurt-break-glass-ceiling-as-new-era-begins-in-seville/a-61845456?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Europa League final: Frankfurt break glass ceiling as new era begins in Seville
+  </title>
+  <link>
+   https://www.dw.com/en/europa-league-final-frankfurt-break-glass-ceiling-as-new-era-begins-in-seville/a-61845456?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   After 42 years of waiting, Eintracht Frankfurt are continental champions again after a long, hot night in Seville. Around 40,000 ticketless Frankfurt fans made the journey on a night when a new Eintracht was born.
+  </description>
+  <dc:date>
+   2022-05-19T02:20:00Z
+  </dc:date>
+  <dc:subject>
+   Sports
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61845456
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/shootout-in-seville-europa-league-glory-for-eintracht-frankfurt-after-victory-over-rangers/a-61844022?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Shootout in Seville: Europa League glory for Eintracht Frankfurt after victory over Rangers
+  </title>
+  <link>
+   https://www.dw.com/en/shootout-in-seville-europa-league-glory-for-eintracht-frankfurt-after-victory-over-rangers/a-61844022?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Eintracht Frankfurt crowned a spectacular Europa League campaign by beating Rangers on penalties in the final in Seville. Goalkeeper Kevin Trapp was the hero with vital saves in extra time and in the shootout.
+  </description>
+  <dc:date>
+   2022-05-18T21:58:00Z
+  </dc:date>
+  <dc:subject>
+   Sports
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61844022
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/droughts-fires-and-floods-could-climate-change-decide-australia-s-election/a-61821853?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Droughts, fires and floods: Could climate change decide Australia's election?
+  </title>
+  <link>
+   https://www.dw.com/en/droughts-fires-and-floods-could-climate-change-decide-australia-s-election/a-61821853?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Australia, a major coal exporter and one of the worst per capita emitters, goes to the polls Saturday. The result could be decisive for global climate goals, as voters demand lawmakers do more to cut emissions.
+  </description>
+  <dc:date>
+   2022-05-18T15:47:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61821853
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/health-tips-how-to-stay-safe-in-a-heat-wave/a-61822226?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Health tips: How to stay safe in a heat wave
+  </title>
+  <link>
+   https://www.dw.com/en/health-tips-how-to-stay-safe-in-a-heat-wave/a-61822226?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Heat waves are common in India and Pakistan, but this year is hotter than ever before. Here's how to stay safe when temperatures soar.
+  </description>
+  <dc:date>
+   2022-05-18T14:58:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61822226
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germans-and-sex-it-s-complicated/a-53210116?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Germans and sex: It's complicated
+  </title>
+  <link>
+   https://www.dw.com/en/germans-and-sex-it-s-complicated/a-53210116?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   How well do Germans do in bed? That's what Rachel Stewart asked a woman who should know. A conversation about the sexual needs of German women, the insecurity of men — and the evolution of the vibrator.
+  </description>
+  <dc:date>
+   2022-05-18T12:10:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   53210116
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/the-dangers-of-app-based-delivery-work/a-61786310?maca=en-rss-en-all-1573-rdf">
+  <title>
+   The dangers of app-based delivery work
+  </title>
+  <link>
+   https://www.dw.com/en/the-dangers-of-app-based-delivery-work/a-61786310?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   While new delivery startups boast about record investment earnings, many of their workers complain about tiring work, poor compensation and organizational issues. Paul Krantz reports from Berlin.
+  </description>
+  <dc:date>
+   2022-05-18T08:24:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61786310
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/carbon-pollution-pushed-environmental-breakdown-to-record-levels-in-2021/a-61831484?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Carbon pollution pushed environmental breakdown to record levels in 2021
+  </title>
+  <link>
+   https://www.dw.com/en/carbon-pollution-pushed-environmental-breakdown-to-record-levels-in-2021/a-61831484?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   People have warped the climate so much that in 2021 four critical measures of planetary health broke records. Oceans grew hotter, higher and more acidic than ever documented, said the World Meteorological Organization.
+  </description>
+  <dc:date>
+   2022-05-18T08:01:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61831484
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nato-application-puts-finland-s-russian-trade-on-thin-ice/a-61829860?maca=en-rss-en-all-1573-rdf">
+  <title>
+   NATO application puts Finland's Russian trade on thin ice
+  </title>
+  <link>
+   https://www.dw.com/en/nato-application-puts-finland-s-russian-trade-on-thin-ice/a-61829860?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   As Finland moves to join NATO, DW wonders how hard the economic impact of delinking economically with Russia could be. The other NATO wannabe, Sweden, has far less to worry about.
+  </description>
+  <dc:date>
+   2022-05-17T16:36:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61829860
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-war-repatriated-pakistani-students-worry-for-their-future/a-61827198?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Ukraine war: Repatriated Pakistani students worry for their future
+  </title>
+  <link>
+   https://www.dw.com/en/ukraine-war-repatriated-pakistani-students-worry-for-their-future/a-61827198?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Hundreds of Pakistanis studying in Ukraine were brought home after Russia invaded the Eastern European country. Now they can neither go back nor find a place in local universities.
+  </description>
+  <dc:date>
+   2022-05-17T14:28:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61827198
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/donna-summer-10th-death-anniversary-of-disco-legend/a-17334510?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Donna Summer: 10th death anniversary of disco legend
+  </title>
+  <link>
+   https://www.dw.com/en/donna-summer-10th-death-anniversary-of-disco-legend/a-17334510?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The sultry Queen of Disco, who during childhood moved churchgoers to tears with her gospel singing, succumbed to lung cancer 10 years ago today.
+  </description>
+  <dc:date>
+   2022-05-17T11:07:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   17334510
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-will-lic-stake-sale-trigger-a-big-privatization-push/a-61821831?maca=en-rss-en-all-1573-rdf">
+  <title>
+   India: Will LIC stake sale trigger a big privatization push?
+  </title>
+  <link>
+   https://www.dw.com/en/india-will-lic-stake-sale-trigger-a-big-privatization-push/a-61821831?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   India's largest insurer has made its debut on the stock market after Prime Minister Narendra Modi's government divested a small stake in it. But a big privatization drive in the near future appears unlikely.
+  </description>
+  <dc:date>
+   2022-05-17T09:31:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61821831
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cannes-opens-with-ukraine-s-zelenskyy-as-special-guest/a-61812363?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Cannes opens with Ukraine's Zelenskyy as special guest
+  </title>
+  <link>
+   https://www.dw.com/en/cannes-opens-with-ukraine-s-zelenskyy-as-special-guest/a-61812363?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The 75th Cannes Film Festival has excluded all Russian participants except dissident director Kirill Serebrennikov.
+  </description>
+  <dc:date>
+   2022-05-17T08:30:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61812363
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/explainer-northern-ireland-protocol-continues-to-cast-its-shadow/a-61818901?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Explainer: Northern Ireland Protocol continues to cast its shadow
+  </title>
+  <link>
+   https://www.dw.com/en/explainer-northern-ireland-protocol-continues-to-cast-its-shadow/a-61818901?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   On Tuesday, the UK government will announce planned legislation on the Northern Ireland Protocol that could end up killing its post-Brexit deal with the EU. A trade war could follow.
+  </description>
+  <dc:date>
+   2022-05-17T07:22:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61818901
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/lockdowns-cripple-chinese-economy/a-61817370?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Lockdowns cripple Chinese economy
+  </title>
+  <link>
+   https://www.dw.com/en/lockdowns-cripple-chinese-economy/a-61817370?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The Chinese economy is slowing down markedly as strict lockdowns send big cities into hibernation. Repercussions will be felt in Germany, too.
+  </description>
+  <dc:date>
+   2022-05-16T17:15:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61817370
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-state-election-leaves-chancellor-scholz-reeling/a-61816748?maca=en-rss-en-all-1573-rdf">
+  <title>
+   German state election leaves Chancellor Scholz reeling
+  </title>
+  <link>
+   https://www.dw.com/en/german-state-election-leaves-chancellor-scholz-reeling/a-61816748?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Chancellor Olaf Scholz is digesting a major defeat after his Social Democrats were comfortably beaten into second place in North Rhine-Westphalia. He now needs a favor from the surging Green Party.
+  </description>
+  <dc:date>
+   2022-05-16T15:53:00Z
+  </dc:date>
+  <dc:subject>
+   Germany
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61816748
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cop15-ivory-coast-hosts-desertification-talks/a-61815049?maca=en-rss-en-all-1573-rdf">
+  <title>
+   COP15: Ivory Coast hosts desertification talks
+  </title>
+  <link>
+   https://www.dw.com/en/cop15-ivory-coast-hosts-desertification-talks/a-61815049?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The COP15 conference is meeting to address issues of land degradation, advancing deserts and deforestation. Experts and activists hope that this will not be just another high-level conference with no concrete results.
+  </description>
+  <dc:date>
+   2022-05-16T14:41:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61815049
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/food-security-in-space-farming-salad-in-moon-soil/a-61777814?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Food security in space: Farming salad in moon soil
+  </title>
+  <link>
+   https://www.dw.com/en/food-security-in-space-farming-salad-in-moon-soil/a-61777814?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Scientists have grown plants in soil taken from the lunar surface. It's a sign that people could one day live on the moon, grow food and produce water.
+  </description>
+  <dc:date>
+   2022-05-16T14:28:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61777814
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cannes-first-female-president-iris-knobloch/a-61767004?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Cannes' first female president: Iris Knobloch
+  </title>
+  <link>
+   https://www.dw.com/en/cannes-first-female-president-iris-knobloch/a-61767004?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   German manager Iris Knobloch, a longtime Warner Bros. executive, could make the prestigious Cannes Film Festival more corporate and more American.
+  </description>
+  <dc:date>
+   2022-05-16T13:32:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61767004
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/russia-looms-large-at-eu-us-trade-and-tech-talks-in-paris/a-61812879?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Russia looms large at EU-US trade and tech talks in Paris
+  </title>
+  <link>
+   https://www.dw.com/en/russia-looms-large-at-eu-us-trade-and-tech-talks-in-paris/a-61812879?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   A trans-Atlantic forum meant to bring Washington and Brussels closer on digital and trade issues has switched gears to tackle global trade and supply chain disruptions sparked by Russia's ongoing aggression in Ukraine.
+  </description>
+  <dc:date>
+   2022-05-16T12:44:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61812879
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukrainian-tiktok-star-valeria-shashenok-chronicles-life-during-war/a-61811942?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Ukrainian TikTok star Valeria Shashenok chronicles life during war
+  </title>
+  <link>
+   https://www.dw.com/en/ukrainian-tiktok-star-valeria-shashenok-chronicles-life-during-war/a-61811942?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   A 20-year-old TikTok artist, who made viral videos about life in an underground bomb shelter in Ukraine, has attracted more than 1 million followers.
+  </description>
+  <dc:date>
+   2022-05-16T11:43:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61811942
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/turkey-witnesses-bitcoin-frenzy-amid-economic-turmoil/a-61786507?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Turkey witnesses bitcoin frenzy amid economic turmoil
+  </title>
+  <link>
+   https://www.dw.com/en/turkey-witnesses-bitcoin-frenzy-amid-economic-turmoil/a-61786507?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Cryptocurrency ownership is soaring in Turkey as high inflation and a weak lira prompt Turks to seek ways to preserve the value of their savings. Concerns rise about a fast-growing industry and legislation is overdue.
+  </description>
+  <dc:date>
+   2022-05-16T09:42:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61786507
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/women-s-bundesliga-why-copy-the-men-s-model/a-61810921?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Women's Bundesliga: Why copy the men's model?
+  </title>
+  <link>
+   https://www.dw.com/en/women-s-bundesliga-why-copy-the-men-s-model/a-61810921?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   While 26 goals in six matches made for an entertaining 22nd and final matchday of the Bundesliga season, it also revealed glaring gaps in quality in the women's game. Here are five theses based on the season just gone.
+  </description>
+  <dc:date>
+   2022-05-16T09:21:00Z
+  </dc:date>
+  <dc:subject>
+   Sports
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61810921
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/child-labor-on-the-rise-in-africa/a-61772211?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Child labor on the rise in Africa
+  </title>
+  <link>
+   https://www.dw.com/en/child-labor-on-the-rise-in-africa/a-61772211?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   After years of child labor decline, the COVID pandemic has pushed many African children back to work. As a result, experts and children's rights activists are calling for stricter measures to protect them.
+  </description>
+  <dc:date>
+   2022-05-16T08:13:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61772211
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/war-in-ukraine-tourism-specialists-relate-their-experiences/a-61705114?maca=en-rss-en-all-1573-rdf">
+  <title>
+   War in Ukraine: Tourism specialists relate their experiences
+  </title>
+  <link>
+   https://www.dw.com/en/war-in-ukraine-tourism-specialists-relate-their-experiences/a-61705114?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   After Russia's invasion of Ukraine on February 24, tourism activities ended abruptly and remain suspended indefinitely. Here are five stories from people working in tourism — with their hopes, fears and wishes.
+  </description>
+  <dc:date>
+   2022-05-16T06:49:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61705114
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/last-show-of-benin-bronzes-in-cologne-before-their-return/a-61749285?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Last show of Benin Bronzes in Cologne before their return
+  </title>
+  <link>
+   https://www.dw.com/en/last-show-of-benin-bronzes-in-cologne-before-their-return/a-61749285?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Before the Benin Bronzes are restituted to Nigeria, the Rautenstrauch-Joest Museum is showing the works from its collection. Nigerian Ambassador Yusuf Tuggar hopes a return date will be found by June.
+  </description>
+  <dc:date>
+   2022-05-15T08:50:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61749285
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eurovision-song-contest-2022-ukraine-wins-the-public-s-hearts/a-61788818?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Eurovision Song Contest 2022: Ukraine wins the public's hearts
+  </title>
+  <link>
+   https://www.dw.com/en/eurovision-song-contest-2022-ukraine-wins-the-public-s-hearts/a-61788818?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Europe's annual song and dance extravaganza wasn't short on either entertainment or pyrotechnics, but voting remained nail-biting until the end.
+  </description>
+  <dc:date>
+   2022-05-15T01:46:00Z
+  </dc:date>
+  <dc:subject>
+   Culture
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61788818
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/opinion-the-bundesliga-is-going-stale/a-61747588?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Opinion: The Bundesliga is going stale
+  </title>
+  <link>
+   https://www.dw.com/en/opinion-the-bundesliga-is-going-stale/a-61747588?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Another Bundesliga season is over and with it comes a very familiar feeling. For DW's Jonathan Harding, the 2021/22 campaign is a reminder that the Bundesliga is need of something fresh.
+  </description>
+  <dc:date>
+   2022-05-14T15:08:00Z
+  </dc:date>
+  <dc:subject>
+   Opinion
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61747588
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/are-we-flushing-away-the-answer-to-our-fertilizer-shortages/a-61737037?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Are we flushing away the answer to our fertilizer shortages?
+  </title>
+  <link>
+   https://www.dw.com/en/are-we-flushing-away-the-answer-to-our-fertilizer-shortages/a-61737037?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   All eyes are on our food systems as the Russia-Ukraine war further pushes up fertilizer prices. Scientists think recycling our urine could be the solution to helping crops grow and strengthening food security.
+  </description>
+  <dc:date>
+   2022-05-14T14:34:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61737037
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/even-isolated-states-like-north-korea-get-covid/a-61790865?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Even isolated states like North Korea get COVID
+  </title>
+  <link>
+   https://www.dw.com/en/even-isolated-states-like-north-korea-get-covid/a-61790865?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Viruses don't respect national borders. Now even North Korea is dealing with COVID-19. We look at how countries fared by isolating fully in the pandemic.
+  </description>
+  <dc:date>
+   2022-05-13T14:02:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61790865
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/what-caused-the-lastest-cryptocrash/a-61787326?maca=en-rss-en-all-1573-rdf">
+  <title>
+   What caused the lastest cryptocrash?
+  </title>
+  <link>
+   https://www.dw.com/en/what-caused-the-lastest-cryptocrash/a-61787326?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Cryptocurrency investors fled from the risky asset after one of the most trusted coins, Terra, took a nosedive. A prolonged dip could destabilize emerging markets like El Salvador.
+  </description>
+  <dc:date>
+   2022-05-13T11:41:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61787326
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/the-perilous-life-of-migratory-birds/a-61710214?maca=en-rss-en-all-1573-rdf">
+  <title>
+   The perilous life of migratory birds
+  </title>
+  <link>
+   https://www.dw.com/en/the-perilous-life-of-migratory-birds/a-61710214?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Climate change is making their journeys longer and harder, window panes and power lines are deadly obstacles, and hunters lie in wait with nets. But there is plenty we can do to help, not harm, our feathered friends.
+  </description>
+  <dc:date>
+   2022-05-13T08:02:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61710214
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/speak-up-what-your-voice-reveals-about-your-character/a-61733611?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Speak up! What your voice reveals about your character
+  </title>
+  <link>
+   https://www.dw.com/en/speak-up-what-your-voice-reveals-about-your-character/a-61733611?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   When we listen to a voice, we automatically connect it to the person's personality. But what does the voice actually say about a human's character?
+  </description>
+  <dc:date>
+   2022-05-13T06:38:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61733611
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/astronomers-produce-first-image-of-black-hole-at-center-of-milky-way/a-61776464?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Astronomers produce first image of black hole at center of Milky Way
+  </title>
+  <link>
+   https://www.dw.com/en/astronomers-produce-first-image-of-black-hole-at-center-of-milky-way/a-61776464?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Scientists theorize that "supermassive black holes" lie at the center of all galaxies, including our own. "Sagittarius A*" is orders of magnitude more dense than the sun but it's also quite some distance from Earth.
+  </description>
+  <dc:date>
+   2022-05-12T14:10:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61776464
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cost-of-living-crisis-hits-consumers-as-uk-economy-struggles-with-inflation/a-61765236?maca=en-rss-en-all-1573-rdf">
+  <title>
+   'Cost-of-living' crisis hits consumers as UK economy struggles with inflation
+  </title>
+  <link>
+   https://www.dw.com/en/cost-of-living-crisis-hits-consumers-as-uk-economy-struggles-with-inflation/a-61765236?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   A series of shocks have combined to send prices spiraling in the UK. Inflation is a global problem, but Boris Johnson's government is being accused of making things worse for consumers.
+  </description>
+  <dc:date>
+   2022-05-12T07:35:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61765236
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/africa-s-covid-19-vaccine-production-line-in-jeopardy/a-61756730?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Africa's COVID-19 vaccine production line in jeopardy
+  </title>
+  <link>
+   https://www.dw.com/en/africa-s-covid-19-vaccine-production-line-in-jeopardy/a-61756730?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   A year ago, South Africa celebrated the opening of the continent's first COVID-19 vaccine production line. Now it's at risk of being shut down due to low demand.
+  </description>
+  <dc:date>
+   2022-05-11T11:03:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61756730
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/wildfires-in-russia-will-war-in-ukraine-limit-firefighting-response/a-61753044?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Wildfires in Russia: Will war in Ukraine limit firefighting response?
+  </title>
+  <link>
+   https://www.dw.com/en/wildfires-in-russia-will-war-in-ukraine-limit-firefighting-response/a-61753044?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The fire season has started early in Siberia, as drought and strong winds fuel blazes in its carbon-rich peat forests. But with Russian forces fighting in Ukraine, this year's emergency response could suffer.
+  </description>
+  <dc:date>
+   2022-05-11T10:41:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61753044
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/global-warming-world-has-50-50-chance-of-hitting-1-5c-mark-soon/a-61743456?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Global warming: World has 50-50 chance of hitting 1.5C mark soon
+  </title>
+  <link>
+   https://www.dw.com/en/global-warming-world-has-50-50-chance-of-hitting-1-5c-mark-soon/a-61743456?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The average global temperature could exceed 1.5 degrees Celsius above pre-industrial levels by 2026, UN meteorologists say. The threshold is one that international agreements are trying to prevent.
+  </description>
+  <dc:date>
+   2022-05-10T16:23:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61743456
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-devastating-is-a-ddos-cyberattack/a-61748267?maca=en-rss-en-all-1573-rdf">
+  <title>
+   How devastating is a DDoS cyberattack?
+  </title>
+  <link>
+   https://www.dw.com/en/how-devastating-is-a-ddos-cyberattack/a-61748267?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Last weekend, Russian hackers attacked several German government websites. These cyberattacks were seemingly harmless, much to the relief of the authorities. But many others are not so lucky.
+  </description>
+  <dc:date>
+   2022-05-10T15:50:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61748267
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-lithuania-is-freeing-itself-from-russian-energy/a-61738474?maca=en-rss-en-all-1573-rdf">
+  <title>
+   How Lithuania is freeing itself from Russian energy
+  </title>
+  <link>
+   https://www.dw.com/en/how-lithuania-is-freeing-itself-from-russian-energy/a-61738474?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   A new pipeline is connecting the Baltic states with Poland, ergo with the entire European gas network. For Poland, it's been a lifesaver. For Lithuania, it's just one part of a much larger scheme.
+  </description>
+  <dc:date>
+   2022-05-10T08:23:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61738474
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ultra-long-haul-flights-your-body-and-mental-health/a-61714702?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Ultra-long-haul flights: Your body and mental health
+  </title>
+  <link>
+   https://www.dw.com/en/ultra-long-haul-flights-your-body-and-mental-health/a-61714702?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Qantas will offer non-stop ultra-long-haul flights from Australia to the US and Europe. How will the 20-hour flights affect your mental and physical health?
+  </description>
+  <dc:date>
+   2022-05-09T11:45:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61714702
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/china-s-export-growth-slows-sharply-as-zero-covid-rules-hit-economy/a-61731968?maca=en-rss-en-all-1573-rdf">
+  <title>
+   China's export growth slows sharply as zero-COVID rules hit economy
+  </title>
+  <link>
+   https://www.dw.com/en/china-s-export-growth-slows-sharply-as-zero-covid-rules-hit-economy/a-61731968?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   China's zero-COVID policies are beginning to severely hit the country's global export engine. Prolonged lockdowns led to particularly sluggish export growth in April, new figures show.
+  </description>
+  <dc:date>
+   2022-05-09T10:31:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61731968
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/why-do-humans-eat-so-much-meat/a-60735141?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Why do humans eat so much meat?
+  </title>
+  <link>
+   https://www.dw.com/en/why-do-humans-eat-so-much-meat/a-60735141?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   We know the current meat and dairy industry are harming our planet and that eating too much animal protein can even be bad for our health. So why do humans continue eating meat?
+  </description>
+  <dc:date>
+   2022-05-09T09:19:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   60735141
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/nashstore-russia-s-alternative-to-the-google-play-store/a-61712657?maca=en-rss-en-all-1573-rdf">
+  <title>
+   NashStore: Russia's alternative to the Google Play store
+  </title>
+  <link>
+   https://www.dw.com/en/nashstore-russia-s-alternative-to-the-google-play-store/a-61712657?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Google Play is restricted in Russia as part of Western sanctions over the invasion of Ukraine. A domestic alternative is set to launch soon after a testing phase.
+  </description>
+  <dc:date>
+   2022-05-09T08:12:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61712657
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/will-surging-energy-prices-derail-reforms-in-oil-exporting-middle-east/a-61675230?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Will surging energy prices derail reforms in oil-exporting Middle East?
+  </title>
+  <link>
+   https://www.dw.com/en/will-surging-energy-prices-derail-reforms-in-oil-exporting-middle-east/a-61675230?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The Ukraine war has seen energy prices spike with oil producers in the Middle East making more money than ever. But will it put the brakes on long-planned reforms to diversify oil-reliant economies in the region?
+  </description>
+  <dc:date>
+   2022-05-07T10:25:00Z
+  </dc:date>
+  <dc:subject>
+   World
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61675230
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/racism-in-germany-is-part-of-everyday-life/a-61700339?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Racism in Germany is part of everyday life
+  </title>
+  <link>
+   https://www.dw.com/en/racism-in-germany-is-part-of-everyday-life/a-61700339?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Most Germans recognize that racism exists in their society, affecting not only minorities but everybody who lives here. The country's first National Discrimination and Racism report has found some surprising results.
+  </description>
+  <dc:date>
+   2022-05-06T08:40:00Z
+  </dc:date>
+  <dc:subject>
+   Germany
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61700339
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/think-8-hours-of-sleep-is-best-think-again/a-61661946?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Think 8 hours of sleep is best? Think again!
+  </title>
+  <link>
+   https://www.dw.com/en/think-8-hours-of-sleep-is-best-think-again/a-61661946?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Are you 38 or older? Then you may want to rethink how much sleep you truly need. A team of international researchers has found that less is more.
+  </description>
+  <dc:date>
+   2022-05-05T14:21:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61661946
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-how-drones-are-changing-the-way-of-war/a-61681013?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Ukraine: How drones are changing the way of war
+  </title>
+  <link>
+   https://www.dw.com/en/ukraine-how-drones-are-changing-the-way-of-war/a-61681013?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The war in Ukraine shows that unmanned aerial vehicles are part of modern warfare. Drones have various tasks from aerial surveillance to missile defense.
+  </description>
+  <dc:date>
+   2022-05-04T15:55:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61681013
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-overshoot-day-we-cannot-continue-like-this/a-61673016?maca=en-rss-en-all-1573-rdf">
+  <title>
+   German Overshoot Day: 'We cannot continue like this'
+  </title>
+  <link>
+   https://www.dw.com/en/german-overshoot-day-we-cannot-continue-like-this/a-61673016?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Germany has used more resources in the first third of 2022 than are sustainably available to it for an entire year. Here's what needs to change.
+  </description>
+  <dc:date>
+   2022-05-04T14:44:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61673016
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/covid-omicron-subvariants-escaping-the-previous-immunity/a-61673415?maca=en-rss-en-all-1573-rdf">
+  <title>
+   COVID: Omicron subvariants 'escaping the previous immunity'
+  </title>
+  <link>
+   https://www.dw.com/en/covid-omicron-subvariants-escaping-the-previous-immunity/a-61673415?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   You may be at risk of catching the new subvariants BA.4 or BA.5 even if you had the original omicron, virologist Alex Sigal told DW's Science Unscripted.
+  </description>
+  <dc:date>
+   2022-05-04T12:34:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61673415
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/breed-accounts-for-less-than-10-of-a-dog-s-behavior/a-61634800?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Breed accounts for less than 10% of a dog's behavior
+  </title>
+  <link>
+   https://www.dw.com/en/breed-accounts-for-less-than-10-of-a-dog-s-behavior/a-61634800?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   If you're looking for a dog with a specific personality, its breed will tell you less than the environment in which it is raised, a new study suggests.
+  </description>
+  <dc:date>
+   2022-05-03T13:48:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61634800
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/will-an-eu-oil-embargo-put-the-lights-out-at-schwedt-s-refinery/a-61668807?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Will an EU oil embargo put the lights out at Schwedt's refinery?
+  </title>
+  <link>
+   https://www.dw.com/en/will-an-eu-oil-embargo-put-the-lights-out-at-schwedt-s-refinery/a-61668807?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   As EU member states push for a Russian oil embargo, Germany's PCK Schwedt refinery is facing an uncertain future. It runs wholly on Russian imports, and many locals aren't so sure alternatives can be found in time.
+  </description>
+  <dc:date>
+   2022-05-03T09:36:00Z
+  </dc:date>
+  <dc:subject>
+   Business
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61668807
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/carbon-farming-climate-change-solution-or-greenwashing/a-61532175?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Carbon farming: Climate change solution or greenwashing?
+  </title>
+  <link>
+   https://www.dw.com/en/carbon-farming-climate-change-solution-or-greenwashing/a-61532175?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   European agriculture produces millions of tons of CO2 every year. Could encouraging farmers to capture carbon on their land to sell credits to businesses help reduce emissions?
+  </description>
+  <dc:date>
+   2022-05-03T07:30:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61532175
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germans-split-over-heavy-weapons-deliveries-to-ukraine/a-61664515?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Germans split over heavy weapons deliveries to Ukraine
+  </title>
+  <link>
+   https://www.dw.com/en/germans-split-over-heavy-weapons-deliveries-to-ukraine/a-61664515?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The German public is divided on the issue of military support for Ukraine. Many fear the delivery of tanks and training of Ukrainian soldiers in Germany may drag the country into the war.
+  </description>
+  <dc:date>
+   2022-05-02T15:33:00Z
+  </dc:date>
+  <dc:subject>
+   Germany
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61664515
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/brazil-dams-1-million-live-close-to-danger/a-61523548?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Brazil dams: 1 million live close to danger
+  </title>
+  <link>
+   https://www.dw.com/en/brazil-dams-1-million-live-close-to-danger/a-61523548?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Data analysis by DW reveals many Brazilians live near dams that, without proper maintenance and governmental oversight, could be deadly in the case of failure.
+  </description>
+  <dc:date>
+   2022-04-29T07:53:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61523548
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/swiping-right-on-climate-love-dating-apps-and-environmental-advocacy/a-61600741?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Swiping right on climate love: Dating apps and environmental advocacy
+  </title>
+  <link>
+   https://www.dw.com/en/swiping-right-on-climate-love-dating-apps-and-environmental-advocacy/a-61600741?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   Dating platforms have noticed their users are hot for climate issues and are incorporating features to help them connect with each other. But how useful are additions like OkCupid's climate advocate badge?
+  </description>
+  <dc:date>
+   2022-04-28T08:49:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61600741
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mars-probe-discovers-shocking-new-aurora/a-61610851?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Mars probe discovers 'shocking' new aurora
+  </title>
+  <link>
+   https://www.dw.com/en/mars-probe-discovers-shocking-new-aurora/a-61610851?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The Emirates Mars Mission says it's a first: They have spotted a worm-like aurora that stretches halfway round Mars. It looks like our northern lights.
+  </description>
+  <dc:date>
+   2022-04-27T14:46:00Z
+  </dc:date>
+  <dc:subject>
+   Science
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61610851
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/scientists-sound-alarm-bells-on-noise-pollution/a-61582252?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Scientists sound alarm bells on noise pollution
+  </title>
+  <link>
+   https://www.dw.com/en/scientists-sound-alarm-bells-on-noise-pollution/a-61582252?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   The rumble of road traffic and trains, the bustle of the bar downstairs or the roar of a plane taking off – noise is a problem that is increasingly hurting health and disrupting ecosystems.
+  </description>
+  <dc:date>
+   2022-04-26T09:44:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61582252
+  </dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/beyond-ecology-the-trees-at-the-heart-of-our-culture/a-61554900?maca=en-rss-en-all-1573-rdf">
+  <title>
+   Beyond ecology: The trees at the heart of our culture
+  </title>
+  <link>
+   https://www.dw.com/en/beyond-ecology-the-trees-at-the-heart-of-our-culture/a-61554900?maca=en-rss-en-all-1573-rdf
+  </link>
+  <description>
+   From Ireland to the Amazon to Kenya, trees can hold traditional or even sacred value. DW takes a look at trees and forests of cultural importance to communities around the world. Some are under threat.
+  </description>
+  <dc:date>
+   2022-04-25T08:31:00Z
+  </dc:date>
+  <dc:subject>
+   Environment
+  </dc:subject>
+  <dc:language>
+   en
+  </dc:language>
+  <dwsyn:contentID>
+   61554900
+  </dwsyn:contentID>
+ </item>
+</rdf:RDF>

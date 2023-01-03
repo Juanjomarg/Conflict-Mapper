@@ -1,11 +1,9 @@
-import sys
-sys.path.append("..")
+from Python.libraries import *
+from Python.functions import *
 
-from Functions.general_use_functions import *
-
-from RSS.RSS_puller_parser import main as main_rss
-from Search.queries import main as main_queries
-from Mapas.mapper import main as main_mapper
+from Python.RSS_puller_parser import main as main_rss
+from Python.queries import main as main_queries
+from Python.mapper import main as main_mapper
 
 #Activar una vez al día
 #main_rss()
@@ -330,6 +328,6 @@ def main():
     root = mapper()
     root.mainloop()
     cef.Shutdown()
- 
+
 if __name__ == '__main__':
     main()
