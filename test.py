@@ -66,7 +66,7 @@ mapper = dbc.Container(children=[
         dbc.Col(width={"size":True,"order":'last'},children=[
             html.Div(children=[
                 html.H2('Map',style={'text-align': 'center','padding-bottom':'.4em'}),
-                html.Iframe(id='map',srcDoc=open('./Assets/Maps/index.html','r').read(),width='100%',height='300')
+                html.Iframe(id='map',srcDoc=open('./Assets/Maps/index.html','r').read(),width='100%',height='100%')
             ])
         ]),
     ],justify="evenly")
