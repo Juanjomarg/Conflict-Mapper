@@ -1,8 +1,8 @@
-from Python.libraries import *
+from Python_files.libraries import *
 
-from Python.RSS_puller_parser import main as main_rss
-from Python.queries import main as main_queries
-from Python.mapper import main as main_mapper
+from Python_files.RSS_puller_parser import main as main_rss
+from Python_files.queries import main as main_queries
+from Python_files.mapper import main as main_mapper
 
 app = Dash(name=__name__,external_stylesheets=[dbc.themes.LUX])
 

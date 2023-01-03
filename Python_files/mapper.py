@@ -1,7 +1,7 @@
-from Python.libraries import *
-from Python.functions import *
+from Python_files.libraries import *
+from Python_files.functions import *
 
-from Python.queries import main as main_queries
+from Python_files.queries import main as main_queries
 
 ###########################################################################
 #
@@ -10,12 +10,12 @@ from Python.queries import main as main_queries
 ###########################################################################
 
 def cargar_silueta_general():
-  with open(fr"./Maps/Silhouette.json") as sil_ucra:
+  with open(fr"./Assets/Maps/Silhouette.json") as sil_ucra:
     ukraine_sil = json.load(sil_ucra)
   return ukraine_sil
 
 def cargar_silueta_departamentos():
-  with open(fr"./Maps/Oblasts.json") as sil_olb:
+  with open(fr"./Assets/Maps/Oblasts.json") as sil_olb:
     ukraine_sil_olb = json.load(sil_olb)
   return ukraine_sil_olb
 
@@ -23,10 +23,10 @@ def generar_mapa(**kwargs):
   coords_centro_ucrania=[48.43, 31.19]
   mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5.3 )
 
-  ciudades=pd.read_csv(fr'./Queries/Ciudades_news_count.csv')
+  ciudades=pd.read_csv(fr'./Assets/Queries/Ciudades_news_count.csv')
   ciudades.dropna(axis=0, inplace=True)
   ciudades_problema=["Bar","Volodymyr"] 
-  Ciudades_sin_problemas= ciudades[ciudades.Name.isin(ciudades_problema) == False]
+  Ciudades_sin_problemas= ciudades[ciudades.name.isin(ciudades_problema) == False]
 
   treshold_lower=kwargs["treshold_low"]
   treshold_higher=kwargs["treshold_high"]
@@ -46,7 +46,7 @@ def generar_mapa(**kwargs):
   else:
     print("Esa función no existe")
 
-  mapa.save(fr"./Maps/index.html")
+  mapa.save(fr"./Assets/Maps/index.html")
 
 def añadir_capa_general(mapa):
   silueta=cargar_silueta_general()
@@ -75,7 +75,7 @@ def añadir_capa_conteo_noticias(mapa,treshold_low,treshold_high,Ciudades_sin_pr
 
 def añadir_capa_conteo_poblacion(mapa,treshold_low,treshold_high,Ciudades_sin_problemas):
     
-  ciu= Ciudades_sin_problemas["Population"].tolist()
+  ciu= Ciudades_sin_problemas["population"].tolist()
   converted=[]
   #Limpiador de columan population
   for x in ciu:
@@ -87,14 +87,14 @@ def añadir_capa_conteo_poblacion(mapa,treshold_low,treshold_high,Ciudades_sin_p
       converted.append(val)
   clean_population=pd.DataFrame(converted)
   Ciudades_sin_problemas = Ciudades_sin_problemas.assign(Population=clean_population[0])
-  ciudades_greater_than_value = Ciudades_sin_problemas[Ciudades_sin_problemas['Population'].between(treshold_low, treshold_high)]
+  ciudades_greater_than_value = Ciudades_sin_problemas[Ciudades_sin_problemas['population'].between(treshold_low, treshold_high)]
   treshold_sum=treshold_low+treshold_high
   treshold_avg=treshold_sum/2
   for i in range(0,len(ciudades_greater_than_value)):
     folium.Circle(
       location=[ciudades_greater_than_value.iloc[i]['latitude'], ciudades_greater_than_value.iloc[i]['longitude']],
       popup=ciudades_greater_than_value.iloc[i]['name'],
-      radius=float(ciudades_greater_than_value.iloc[i]['Population'])/(math.log(treshold_avg)),
+      radius=float(ciudades_greater_than_value.iloc[i]['population'])/(math.log(treshold_avg)),
       color='#0057B8',
       fill=True,
       fill_color='#0057B8',

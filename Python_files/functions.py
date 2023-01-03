@@ -1,4 +1,4 @@
-from Python.libraries import *
+from Python_files.libraries import *
 
 ###########################################################################
 #
@@ -27,17 +27,9 @@ def fecha_hoy():
 #
 ###########################################################################
 
-def cargar_ciudades():
-  ciudades_df=pd.read_csv(fr'./Infraestructura/CSV/Cities.csv')
-  return ciudades_df
-
-def cargar_aeropuertos():
-  aeropuertos_df=pd.read_csv(fr'./Infraestructura/CSV/Aeropuertos.csv')
-  return aeropuertos_df
-
-def cargar_noticias():
-  noticias=pd.read_csv(fr'./RSS/NEWS_CSV/NewsCSV.csv')
-  return noticias
+def cargar_infraestructura():
+  infraestructura_df=pd.read_csv(fr'./Assets/Infrastructure/CSV/Infrastructure.csv')
+  return infraestructura_df
 
 def main():
   pass

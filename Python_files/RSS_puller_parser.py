@@ -1,5 +1,5 @@
-from Python.libraries import *
-from Python.functions import *
+from Python_files.libraries import *
+from Python_files.functions import *
 
 ###########################################################################
 #
@@ -9,19 +9,35 @@ from Python.functions import *
 
 def crawl_rss_feed(RSS_urls):
     print('##############')
-    print('Obteniendo XML')
+    print('Obtanining XML')
     print('##############\n')
     
     hoy=fecha_hoy()
     for key in RSS_urls:
-        print(f'Obteniendo XML de {key}')
+
+        print(f'Obtaining XML from {key}\n')
         url=requests.get(RSS_urls[key])
-        print(f'Respuesta fue {url.status_code}')
-        soup = bs.BeautifulSoup(url.content,features='xml')
+        print(f'Response was {url.status_code}')
+
+        print('###############')
+        print('  Making soup ')
+        print('###############\n')
+
+        #"""
+        soup = BeautifulSoup(url.content,features="xml")
         pretty=soup.prettify()
+        #"""
+        
+        with open(f'Assets/RSS/RAW/XML/{hoy}-{key}.xml', 'wb',encoding="utf-8") as f:
+            f.write(url.content)
+            f.close
+        
+        """
         f = open(fr"./Assets/RSS/RAW/XML/{hoy}-{key}.xml","w",encoding="utf-8")
         f.write(pretty)
         f.close
+        """
+
         print(f'XML generado para {key} con fecha de {hoy}\n')
 
 ###########################################################################
