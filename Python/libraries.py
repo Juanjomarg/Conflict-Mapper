@@ -22,7 +22,7 @@ import math
 import requests
 import bs4 as bs
 import feedparser
-from cefpython3 import cefpython as cef
+#from cefpython3 import cefpython as cef
 
 #Librerias geo
 

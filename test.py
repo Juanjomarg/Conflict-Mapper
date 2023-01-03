@@ -14,9 +14,15 @@ def spacer():
 search_bar = dbc.Row(
     [
         html.Div([
-                    dcc.Dropdown(['News based sizing', 'Population based sizing', 'View vehicle movement'], 'Select one mode: ', id='mode-dropdown'),
-                    #html.Div(id='dd-output-container')
-                ]),
+            dbc.DropdownMenu(
+                label="Select mapping mode: ",
+                align_end=True,
+                children=[
+                    dbc.DropdownMenuItem("Infrastructure"),
+                    dbc.DropdownMenuItem("News and Population"),
+                    dbc.DropdownMenuItem("BTG movement mapper"),
+            ])
+        ]),
     ],
     className="g-0 ms-auto flex-nowrap mt-3 mt-md-0",
     align="center",
@@ -53,42 +59,35 @@ mapper = dbc.Container(children=[
     dbc.Row(children=[
         dbc.Col(width={"size":4,"order":'first'},children=[
             html.Div(children=[
-                html.H2('Settings',style={'text-align': 'center','padding-bottom':'.em'}),
+                html.H2('Settings',style={'text-align': 'center','padding-bottom':'.1em'}),
                 html.P(style={'textAlign':'justify'}, children=['This tool aims to help contextualize and visualize the ongoing conflict in Ukraine.']),
-                html.H5('Select mapping mode: '),
-                html.Div([
-                    dcc.Dropdown(['News based sizing', 'Population based sizing', 'View vehicle movement'], 'Select one mode: ', id='mode-dropdown'),
-                    html.Div(id='dd-output-container')
-                ]),
-                spacer(),
-                html.Button('Change Mode',className='btn btn-primary')
             ])           
         ]),
         dbc.Col(width={"size":True,"order":'last'},children=[
             html.Div(children=[
                 html.H2('Map',style={'text-align': 'center','padding-bottom':'.4em'}),
-                html.Iframe(id='map',srcDoc=open('Mapas/archivos mapas/index.html','r').read(),width='100%',height='480')
+                html.Iframe(id='map',srcDoc=open('./Assets/Maps/index.html','r').read(),width='100%',height='300')
             ])
         ]),
-    ],justify="evenly"),
+    ],justify="evenly")
+])
+
+news=dbc.Container([
     dbc.Row([
         dbc.Col([
-            html.H1('Hi')
+            html.H1('Recent News')
         ])
     ])
 ])
 
-
-
 footer=dbc.Container(children=[
-    spacer(),
-    html.H1('Footer')
+    
 ])
 
 app.layout = dbc.Container(children=[
     navbar,
-    spacer(),
     mapper,
+    news,
     footer,
 
 ],)
