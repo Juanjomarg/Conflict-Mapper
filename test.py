@@ -18,7 +18,7 @@ search_bar = dbc.Row(
                 label="Select mapping mode: ",
                 align_end=True,
                 children=[
-                    dbc.DropdownMenuItem("Infrastructure"),
+                    dbc.DropdownMenuItem("Infrastructure visualizer"),
                     dbc.DropdownMenuItem("News and Population"),
                     dbc.DropdownMenuItem("BTG movement mapper"),
             ])
