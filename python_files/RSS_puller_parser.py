@@ -1,19 +1,29 @@
-from Python_files.libraries import *
-from Python_files.functions import *
+from python_files.libraries import *
+from python_files.functions import *
 
 ###########################################################################
 #
-#Esta función visita webs y crea XMLs
+#Estas funciones cargan, guardan y leen rss
 #
 ###########################################################################
+
+def get_all_rss_files():
+    entries = os.listdir('./assets/RSS/RAW/XML/')
+    return entries
 
 def get_all_rss(RSS_urls,date):
     for key in RSS_urls.keys():
         get_xml(key,RSS_urls.get(f"{key}"),date)
 
-def parse_all_rss(RSS_urls,date):
-    for key in RSS_urls:
-        parse_xml(key,date)
+def parse_all_rss(filenames):
+    for file in filenames:
+        parse_xml(file)
+
+###########################################################################
+#
+#Esta función visita una web y almacena xml para URLS en urls.json
+#
+###########################################################################
 
 def get_xml(RSS_feed,RSS_feed_url,date):
     print('###############')
@@ -63,19 +73,22 @@ def get_xml(RSS_feed,RSS_feed_url,date):
 #
 ###########################################################################
 
-def parse_xml(RSS_feed,date):
+def parse_xml(filename):
 
-    print(f'Trying to load XML file for {RSS_feed}')
+    file_split=filename.split("-")
+    date="-".join(map(str,file_split[:3]))
+    RSS_feed=file_split[-1].split(".")[0]
+
+    print(f'Trying to load XML file for {RSS_feed} for {date}')
     try:
         file = open(fr"./assets/RSS/RAW/XML/{date}-{RSS_feed}.xml","r",encoding="utf-8")
         print('################')
         print('   Loading XML   ')
         print('################\n')
-        print(f"Loaded XML file for {RSS_feed}\n")
+        contents = file.read()
+        print(f"Loaded XML file for {RSS_feed} for {date}\n")
     except Exception as e:
-        print(f"Couldn't load XML file for {RSS_feed} from disk")
-
-    contents = file.read()
+        print(f"Couldn't load XML file for {RSS_feed} with date {date} from disk")
 
     try:    
         soup = BeautifulSoup(contents, features="xml")
@@ -84,7 +97,7 @@ def parse_xml(RSS_feed,date):
         print('################\n')
         print(f'Parsed XML file for {RSS_feed}\n')
     except Exception as e:
-        print(f'Could not parse the XML for {RSS_feed}\n')
+        print(f'Could not parse the XML for {RSS_feed} for {date}\n')
         print(e)
         
     entries=soup.find_all("item")
@@ -99,17 +112,48 @@ def parse_xml(RSS_feed,date):
     print('##############\n')
     
     for i in entries:
-        title=i.find("title").text.replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '').replace('´', "'").replace('’', "'").replace('–', "-").replace('‘', "'").replace('с', "c")
-        titles.append(title)
+        try:    
+            try:
+                ti=i.find("title").text
+                title=str(ti).replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '').replace('´', "'").replace('’', "'").replace('–', "-").replace('‘', "'").replace('с', "c")
+                titles.append(title)
+            except Exception as e:
+                print(f"couldnt find a title due to {e} for {i}")
+        except Exception as ex:
+            titles.append("0")
 
-        description=i.find("description").text.replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '').replace('´', "'").replace('’', "'").replace('–', "-").replace('‘', "'").replace('с', "c")
-        descriptions.append(description)
+        try: 
+            try:
+                desc=i.find("description").text
+                description=str(desc).replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '').replace('´', "'").replace('’', "'").replace('–', "-").replace('‘', "'").replace('с', "c")
+                descriptions.append(description)
+            except Exception as e:
+                print(f"couldnt find a description due to {e} for {i}")
+        except Exception as ex:
+            descriptions.append("0")
 
-        link=i.find("link").text.replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '')
-        links.append(link)
+        try: 
+            try:
+                li=i.find("link").text
+                link=str(li).replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '')
+                links.append(link)
+            except Exception as e:
+                print(f"couldnt find a link due to {e} for {i}")
+        except Exception as ex:
+            links.append("0")
 
-        pubDate=i.find("pubDate").text.replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '')
-        pubDates.append(pubDate)
+        try: 
+            try:
+                try:
+                    pub=i.find("pubDate").text
+                except:
+                    pub=i.find("dc:date").text
+                pubDate=str(pub).replace('\n', '').replace('\t', '').replace('  ', '').replace('   ', '').replace('    ', '')
+                pubDates.append(pubDate)
+            except Exception as e:
+                print(f"couldnt find a pubDate due to {e} for {i}")
+        except Exception as ex:
+            pubDates.append("0")
 
     print(f'Sorted news for {RSS_feed} for {date}\n')
     
@@ -117,9 +161,8 @@ def parse_xml(RSS_feed,date):
     print('   Saving   ')
     print('############\n')
 
-    data={"titles":titles,"descriptions":descriptions,"links":links,"pubDates":pubDates}
-
-    df=pd.DataFrame(data=data)
+    cols={"titles":titles,"descriptions":descriptions,"links":links,"pubDates":pubDates}
+    df=pd.DataFrame(data=cols)
     df.to_csv(fr"./assets/RSS/RAW/CSV/{date}-{RSS_feed}.csv",index=False)
 
     print(f'CSV saved for {RSS_feed} for {date}\n')

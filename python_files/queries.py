@@ -1,5 +1,5 @@
-from Python_files.libraries import *
-from Python_files.functions import *
+from python_files.libraries import *
+from python_files.functions import *
 
 ###########################################################################
 #
