@@ -9,7 +9,7 @@ from Python_files.functions import *
 
 def add_coords_infrastructure(file):
 
-    infrastructure_df=pd.read_csv(fr"./Assets/Infrastructure/CSV/{file}.csv")
+    infrastructure_df=pd.read_csv(fr"./assets/Infrastructure/CSV/{file}.csv")
 
     infrastructure_df['country'] = infrastructure_df.apply(lambda _: 'ukraine', axis=1)
     infrastructure_df['full_address'] = infrastructure_df.apply(lambda _: '', axis=1)
@@ -29,7 +29,7 @@ def add_coords_infrastructure(file):
     infrastructure_df[['latitude', 'longitude', 'altitude']] = pd.DataFrame(infrastructure_df['point'].tolist(), index=infrastructure_df.index)
 
     print(infrastructure_df.head())
-    infrastructure_df.to_csv(fr"./Infrastructure/CSV/{file}.csv",index=False)
+    infrastructure_df.to_csv(fr"./assets/Infrastructure/CSV/{file}.csv",index=False)
     print(f'File {file}.csv created')
 
 ###########################################################################

@@ -52,7 +52,7 @@ def get_xml(RSS_feed,RSS_feed_url,date):
     print(type(plain))
     string=str(plain)
 
-    with open(f"./Assets/RSS/RAW/XML/{date}-{RSS_feed}.xml", 'w', encoding='UTF-8') as f:
+    with open(f"./assets/RSS/RAW/XML/{date}-{RSS_feed}.xml", 'w', encoding='UTF-8') as f:
         f.write(string)
 
     print(f'XML saved for {RSS_feed} for {date}\n')
@@ -67,7 +67,7 @@ def parse_xml(RSS_feed,date):
 
     print(f'Trying to load XML file for {RSS_feed}')
     try:
-        file = open(fr"./Assets/RSS/RAW/XML/{date}-{RSS_feed}.xml","r",encoding="utf-8")
+        file = open(fr"./assets/RSS/RAW/XML/{date}-{RSS_feed}.xml","r",encoding="utf-8")
         print('################')
         print('   Loading XML   ')
         print('################\n')
@@ -120,7 +120,7 @@ def parse_xml(RSS_feed,date):
     data={"titles":titles,"descriptions":descriptions,"links":links,"pubDates":pubDates}
 
     df=pd.DataFrame(data=data)
-    df.to_csv(fr"./Assets/RSS/RAW/CSV/{date}-{RSS_feed}.csv",index=False)
+    df.to_csv(fr"./assets/RSS/RAW/CSV/{date}-{RSS_feed}.csv",index=False)
 
     print(f'CSV saved for {RSS_feed} for {date}\n')
 
@@ -136,7 +136,7 @@ def combine_news_of_day(fecha_aggregate):
     print('##########################################\n')
 
     #Nombres de archivos CSV desde carpeta   
-    files=glob.glob(fr"./Assets/RSS/RAW/CSV/{fecha_aggregate}*.csv")
+    files=glob.glob(fr"./assets/RSS/RAW/CSV/{fecha_aggregate}*.csv")
     ordered_files=sorted(files)
     
     print('Se encontraron los siguientes archivos: ')
@@ -152,7 +152,7 @@ def combine_news_of_day(fecha_aggregate):
         print(f'Dataframe {key} añadido a lista')
 
     aggregated_news_today=pd.concat(df_list,axis=0)
-    aggregated_news_today.to_csv(fr"./Assets/RSS/RAW/Combined/{fecha_aggregate}-Combined.csv",index=False)
+    aggregated_news_today.to_csv(fr"./assets/RSS/RAW/Combined/{fecha_aggregate}-Combined.csv",index=False)
     print('\n')
     print(f'Se ha creado CSV combinado para fecha {fecha_aggregate}')
 
@@ -168,7 +168,7 @@ def aggregate_news():
     print('###################################')
 
     #Nombres de archivos CSV desde carpeta   
-    files=glob.glob(fr"./Assets/RSS/RAW/Combined/*.csv")
+    files=glob.glob(fr"./assets/RSS/RAW/Combined/*.csv")
     ordered_files=sorted(files)
     df_list=list()
     print('\n')
@@ -186,7 +186,7 @@ def aggregate_news():
         print(f'Dataframe {key} añadido')
 
     aggregated_news=pd.concat(df_list,axis=0)
-    aggregated_news.to_csv(fr"./Assets/RSS/NEWS_CSV/NewsCSV.csv",index=False)
+    aggregated_news.to_csv(fr"./assets/RSS/NEWS_CSV/NewsCSV.csv",index=False)
     print('\n')
     print(f'Se ha creado CSV de noticias\n')
 
@@ -196,7 +196,7 @@ def aggregate_news():
 #
 ###########################################################################
 
-RSS_urls = json.load(open(fr"./Assets/RSS/urls.json"))
+RSS_urls = json.load(open(fr"./assets/RSS/urls.json"))
 
 ###########################################################################
 #

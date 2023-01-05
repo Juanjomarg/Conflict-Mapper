@@ -10,12 +10,12 @@ from Python_files.queries import main as main_queries
 ###########################################################################
 
 def cargar_silueta_general():
-  with open(fr"./Assets/Maps/Silhouette.json") as sil_ucra:
+  with open(fr"./assets/Maps/Silhouette.json") as sil_ucra:
     ukraine_sil = json.load(sil_ucra)
   return ukraine_sil
 
 def cargar_silueta_departamentos():
-  with open(fr"./Assets/Maps/Oblasts.json") as sil_olb:
+  with open(fr"./assets/Maps/Oblasts.json") as sil_olb:
     ukraine_sil_olb = json.load(sil_olb)
   return ukraine_sil_olb
 
@@ -23,7 +23,7 @@ def generar_mapa(**kwargs):
   coords_centro_ucrania=[48.43, 31.19]
   mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5.3 )
 
-  ciudades=pd.read_csv(fr'./Assets/Queries/Ciudades_news_count.csv')
+  ciudades=pd.read_csv(fr'./assets/Queries/Ciudades_news_count.csv')
   ciudades.dropna(axis=0, inplace=True)
   ciudades_problema=["Bar","Volodymyr"] 
   Ciudades_sin_problemas= ciudades[ciudades.name.isin(ciudades_problema) == False]
@@ -46,7 +46,7 @@ def generar_mapa(**kwargs):
   else:
     print("Esa función no existe")
 
-  mapa.save(fr"./Assets/Maps/index.html")
+  mapa.save(fr"./assets/Maps/index.html")
 
 def añadir_capa_general(mapa):
   silueta=cargar_silueta_general()

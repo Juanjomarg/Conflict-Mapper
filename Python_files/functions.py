@@ -28,7 +28,7 @@ def fecha_hoy():
 ###########################################################################
 
 def cargar_infraestructura():
-  infraestructura_df=pd.read_csv(fr'./Assets/Infrastructure/CSV/Infrastructure.csv')
+  infraestructura_df=pd.read_csv(fr'./assets/Infrastructure/CSV/Infrastructure.csv')
   return infraestructura_df
 
 def main():
