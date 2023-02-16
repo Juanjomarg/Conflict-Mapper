@@ -40,7 +40,7 @@ import plotly
 import plotly.express as px
 from dash import Dash, html, dcc, Input, Output, State
 import dash_bootstrap_components as dbc
-from cefpython3 import cefpython as cef
+#from cefpython3 import cefpython as cef
 
 import tkinter as tk
 from tkinter import ttk
