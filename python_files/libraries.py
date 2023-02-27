@@ -1,51 +1,40 @@
 #Librerias generales
-import sys
-from datetime import *
-from random import *
+from datetime import datetime
 import os
-import platform
-import logging as _logging
-import time
-from threading import *
 
 #Librerias data
 
 import glob
-from unicodedata import name
 import numpy as np
 import pandas as pd
 import json
-import math
+from chardet import detect
 
 #Librerias web
 
 import requests
 from bs4 import BeautifulSoup
-import feedparser
-#from cefpython3 import cefpython as cef
-
-#Librerias geo
-
-from geopy import *
-import geopandas as gpd
-from geopandas import tools
-from geopy.geocoders import Nominatim
-from geopy.extra.rate_limiter import RateLimiter
-from shapely.geometry import Point
 
 #Librerias viz
 
 import folium
-import plotly
-import plotly.express as px
 from dash import Dash, html, dcc, Input, Output, State
 import dash_bootstrap_components as dbc
-#from cefpython3 import cefpython as cef
 
-import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox
-import ctypes
+def current_time(request):
+  dia=datetime.now().date().day
+  mes=datetime.now().date().month
+  año=datetime.now().date().year
+  if request == 'dia':
+      return dia
+  if request == 'mes':
+      return mes
+  if request == 'año':
+      return año
+
+def date_today():
+  hoy=f"{current_time('dia')}-{current_time('mes')}-{current_time('año')}"
+  return hoy
 
 def main():
   pass

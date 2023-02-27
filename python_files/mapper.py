@@ -19,35 +19,6 @@ def cargar_silueta_departamentos():
     ukraine_sil_olb = json.load(sil_olb)
   return ukraine_sil_olb
 
-def generar_mapa(**kwargs):
-  coords_centro_ucrania=[48.43, 31.19]
-  mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5.3 )
-
-  ciudades=pd.read_csv(fr'./assets/Queries/Ciudades_news_count.csv')
-  ciudades.dropna(axis=0, inplace=True)
-  ciudades_problema=["Bar","Volodymyr"] 
-  Ciudades_sin_problemas= ciudades[ciudades.name.isin(ciudades_problema) == False]
-
-  treshold_lower=kwargs["treshold_low"]
-  treshold_higher=kwargs["treshold_high"]
-
-  search_type=kwargs["busqueda"]
-
-  if search_type==1:
-    añadir_capa_general(mapa)
-    añadir_capa_departamentos(mapa)
-    folium.LayerControl().add_to(mapa)
-    añadir_capa_conteo_noticias(mapa,treshold_lower,treshold_higher,Ciudades_sin_problemas)
-  elif search_type==2:
-    añadir_capa_general(mapa)
-    añadir_capa_departamentos(mapa)
-    folium.LayerControl().add_to(mapa)
-    añadir_capa_conteo_poblacion(mapa,treshold_lower,treshold_higher,Ciudades_sin_problemas)
-  else:
-    print("Esa función no existe")
-
-  mapa.save(fr"./assets/Maps/index.html")
-
 def añadir_capa_general(mapa):
   silueta=cargar_silueta_general()
   colores_ucrania = {'fillColor': '#FFD700', 'color': '#FFD700'}
@@ -101,6 +72,36 @@ def añadir_capa_conteo_poblacion(mapa,treshold_low,treshold_high,Ciudades_sin_p
       opacity=1,
       fill_opacity=0.5
     ).add_to(mapa)
+
+
+def generar_mapa(**kwargs):
+  coords_centro_ucrania=[48.43, 31.19]
+  mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5.3 )
+
+  ciudades=pd.read_csv(fr'./assets/Queries/Ciudades_news_count.csv')
+  ciudades.dropna(axis=0, inplace=True)
+  ciudades_problema=["Bar","Volodymyr"] 
+  Ciudades_sin_problemas= ciudades[ciudades.name.isin(ciudades_problema) == False]
+
+  treshold_lower=kwargs["treshold_low"]
+  treshold_higher=kwargs["treshold_high"]
+
+  search_type=kwargs["busqueda"]
+
+  if search_type==1:
+    añadir_capa_general(mapa)
+    añadir_capa_departamentos(mapa)
+    folium.LayerControl().add_to(mapa)
+    añadir_capa_conteo_noticias(mapa,treshold_lower,treshold_higher,Ciudades_sin_problemas)
+  elif search_type==2:
+    añadir_capa_general(mapa)
+    añadir_capa_departamentos(mapa)
+    folium.LayerControl().add_to(mapa)
+    añadir_capa_conteo_poblacion(mapa,treshold_lower,treshold_higher,Ciudades_sin_problemas)
+  else:
+    print("Esa función no existe")
+
+  mapa.save(fr"./assets/Maps/index.html")
 
 
 def main(busq=1, tresh1=4,tresh2=50):

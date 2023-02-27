@@ -1,6 +1,6 @@
 from python_files.libraries import *
 
-from python_files.RSS_puller_parser import main as main_rss
+from python_files.xml_puller_parser import main as main_rss
 from python_files.queries import main as main_queries
 from python_files.mapper import main as main_mapper
 
