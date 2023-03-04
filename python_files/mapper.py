@@ -64,7 +64,7 @@ def añadir_capa_conteo_poblacion(mapa,treshold_low,treshold_high,Ciudades_sin_p
     folium.Circle(
       location=[ciudades_greater_than_value.iloc[i]['latitude'], ciudades_greater_than_value.iloc[i]['longitude']],
       popup=ciudades_greater_than_value.iloc[i]['name'],
-      radius=float(ciudades_greater_than_value.iloc[i]['population'])/(math.log(treshold_avg)),
+      radius=float((ciudades_greater_than_value.iloc[i]['population'])/(math.log(treshold_avg))),
       color='#0057B8',
       fill=True,
       fill_color='#0057B8',
@@ -75,7 +75,7 @@ def añadir_capa_conteo_poblacion(mapa,treshold_low,treshold_high,Ciudades_sin_p
 
 def generar_mapa(**kwargs):
   coords_centro_ucrania=[48.43, 31.19]
-  mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5.3 )
+  mapa = folium.Map(location=coords_centro_ucrania,zoom_start=5 )
 
   ciudades=pd.read_csv(fr'./assets/Queries/Ciudades_news_count.csv')
   ciudades.dropna(axis=0, inplace=True)
