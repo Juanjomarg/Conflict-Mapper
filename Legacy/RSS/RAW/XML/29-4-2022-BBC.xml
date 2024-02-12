@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>
+   BBC News - World
+  </title>
+  <description>
+   BBC News - World
+  </description>
+  <link>
+   https://www.bbc.co.uk/news/
+  </link>
+  <image>
+   <url>
+    https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif
+   </url>
+   <title>
+    BBC News - World
+   </title>
+   <link>
+    https://www.bbc.co.uk/news/
+   </link>
+  </image>
+  <generator>
+   RSS for Node
+  </generator>
+  <lastBuildDate>
+   Fri, 29 Apr 2022 18:28:04 GMT
+  </lastBuildDate>
+  <copyright>
+   Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.
+  </copyright>
+  <language>
+   en-gb
+  </language>
+  <ttl>
+   15
+  </ttl>
+  <item>
+   <title>
+    A Ukrainian father's terrifying journey to a Russian prison and back
+   </title>
+   <description>
+    Nikita Horban was abducted from his village and taken to Russia. He would come back without any toes.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61249158?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61249158
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 05:00:06 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine war: Russian strike on Kyiv kills reporter Vira Hyrych
+   </title>
+   <description>
+    Vira Hyrych, who worked for Radio Liberty, died after her residential building was hit on Thursday.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61274997?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61274997
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 15:10:18 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    British Virgin Islands: UK should take back rule - report
+   </title>
+   <description>
+    The British overseas territory's government should be dissolved for two years, a report recommends.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/uk-61276109?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/uk-61276109
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 18:09:01 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Foul-smelling foam clogs up Colombian town of Mosquera
+   </title>
+   <description>
+    Detergents dumped in a local river are being linked to the filthy white phenomenon.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61270024?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61270024
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 10:50:49 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Alexanda Kotey: IS 'Beatle' sentenced to life in US for murders in Syria
+   </title>
+   <description>
+    Alexanda Kotey, 38, pleaded guilty last September to the beheading of IS hostages in Syria.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61274332?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61274332
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 17:41:52 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    South Africa's Jacob Zuma would do anything for the Guptas - Zondo report
+   </title>
+   <description>
+    South Africa's ex-president Jacob Zuma would "do anything" for the Gupta business family, a report finds.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61269603?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61269603
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 16:41:32 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Liberia war crimes: Sierra Leone rebel commander acquitted by court in Finland
+   </title>
+   <description>
+    Gibril Massaquoi was a school teacher but then became the spokesman of a notorious rebel group.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61277623?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61277623
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 16:04:24 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Heat wave in India leaves millions struggling to cope
+   </title>
+   <description>
+    Experts say India is now recording more intense, frequent heatwaves that are also longer in duration.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61242341?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61242341
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 03:09:55 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Israel airport chaos as family brings unexploded shell
+   </title>
+   <description>
+    Chaos erupts as Americans bring a 'souvenir' unexploded shell into Israel's international airport.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-middle-east-61267265?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-middle-east-61267265
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 08:33:22 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures
+   </title>
+   <description>
+    Some residents have been under strict lockdown for five weeks, and struggled to access food supplies.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-china-61270616
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 10:22:33 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    James Corden leaving Late Late Show after eight years
+   </title>
+   <description>
+    The British comedian and actor turned talk show host announced the decision on Thursday.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/entertainment-arts-61267036?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/entertainment-arts-61267036
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 10:44:50 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Depp v Heard: What you might have missed this week
+   </title>
+   <description>
+    The court hears evidence of personality disorders, drug abuse and a relationship with Elon Musk.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61263794?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61263794
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 15:08:52 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Why British royals face simmering resentment in Caribbean
+   </title>
+   <description>
+    More awareness of the region's history and calls for slavery reparations have changed sentiment.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61256001?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61256001
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 00:23:17 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine launches hunt for Russian soldiers accused of Bucha war crimes
+   </title>
+   <description>
+    The 10 Russian soldiers are wanted for alleged war crimes - but at home, they have been hailed as heroes.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61269480?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61269480
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 12:23:51 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    How big are Donald Trump's legal problems?
+   </title>
+   <description>
+    As he plots his political future, two criminal probes and multiple lawsuits could spell trouble.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61084161?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61084161
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 17:36:57 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Barkha Dutt: 'My father did not have to die'
+   </title>
+   <description>
+    A year after losing her father to Covid, Indian journalist Barkha Dutt writes on coping with loss and regret.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61244109?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61244109
+   </guid>
+   <pubDate>
+    Fri, 29 Apr 2022 00:29:55 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    The children surviving Ukraine’s war without their parents
+   </title>
+   <description>
+    Eleven-year-old Angelina is one of many children who were forced to flee hundreds of miles from their homes on Ukraine's front line.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61263855?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61263855
+   </guid>
+   <pubDate>
+    Thu, 28 Apr 2022 23:03:00 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Sirens ring out in Israel to honour Holocaust victims
+   </title>
+   <description>
+    Streets came to a standstill as people paused to pay tribute to the millions killed in the Holocaust.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-middle-east-61255423?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-middle-east-61255423
+   </guid>
+   <pubDate>
+    Thu, 28 Apr 2022 10:14:24 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    War in Ukraine absurd and evil, says UN chief
+   </title>
+   <description>
+    Antonio Guterres addresses reporters outside a wreckage of apartment blocks north west of Kyiv.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61254476?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61254476
+   </guid>
+   <pubDate>
+    Thu, 28 Apr 2022 08:57:01 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukrainians flock to get patriotic tattoos
+   </title>
+   <description>
+    People headed to the front line, and their supporters, are having the country's war with Russia memorialise.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61251308?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61251308
+   </guid>
+   <pubDate>
+    Wed, 27 Apr 2022 23:07:00 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Critically endangered monkey born in Colombian zoo
+   </title>
+   <description>
+    A cotton-top tamarin monkey has made its first public appearance at Cali Zoo in Colombia.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/uk-politics-61247254?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/uk-politics-61247254
+   </guid>
+   <pubDate>
+    Wed, 27 Apr 2022 16:10:32 GMT
+   </pubDate>
+  </item>
+ </channel>
+</rss>

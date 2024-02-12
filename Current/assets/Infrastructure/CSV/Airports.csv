@@ -1,0 +1,181 @@
+code,name,latitude,longitude
+AIRP,Boryspil International Airport,50.345001,30.894699
+AIRM,Ihor Sikorsky Kyiv International Airport (Zhuliany),50.40194,30.45194
+AIRP,Lviv International Airport,49.8125,23.9561
+AIRM,Odessa International Airport,46.4268,30.6765
+AIRM,Simferopol International Airport,45.0522,33.975101
+AIRM,Dnipro International Airport,48.357201,35.100601
+AIRM,Kharkiv International Airport,49.924801,36.290001
+AIRM,Uzhhorod International Airport,48.634300231933594,22.263399124145508
+AIRM,Chernivtsi International Airport,48.259300231933594,25.98080062866211
+AIRM,Ivano-Frankivsk International Airport,48.88420104980469,24.686100006103516
+AIRM,Hostomel Airport,50.6035,30.1919
+AIRM,Zaporizhzhia International Airport,47.867000579833984,35.31570053100586
+AIRM,Zhovtneve Air Base,45.63999938964844,28.670000076293945
+AIRM,Sevastopol International Airport / Belbek Air Base,44.691822,33.57462
+AIRM,Vinnytsia/Gavyryshivka International Airport,49.242531,28.613778
+AIRF,Zhytomyr Airport,50.270556,28.738611
+AIRF,Zhalizhnia,50.4734613,24.4743705
+AIRF,Turynka,50.1205511,24.035789
+AIRF,Tal'ne,48.8715407,30.6593031
+AIRF,Aeroclub Swallow,48.81223,26.022577
+AIRF,Tsuniv Airfield,49.831848,23.690052
+AIRF,Korotych Airfield,49.971,36.011
+AIRF,Ximik Airport,47.34706,35.142817
+AIRF,Gora Klementyeva Airfield,45.012616,35.247767
+AIRF,Kyiv Chaika Airfield,50.431185,30.30093
+AIRF,Suprunovka Airport,49.568599700927734,34.39720153808594
+AIRF,Turiisk Airfield,51.021679,24.618763
+AIRF,Yukharina Balka Airfield,44.549003,33.488613
+AIRF,Zavodskoe Airfield,44.919998,34.063
+AIRF,Blagodatnoye Delta-Paradrome,47.9042,38.5194
+AIRF,Starokostiantyniv Air Base,49.74829864501953,27.273300170898438
+AIRF,Stryi Air Base,49.24330139160156,23.786699295043945
+AIRF,Sumy Airport,50.858299255371094,34.76250076293945
+AIRF,Vinnytsia Aircraft Sports Club - Sutysky Airport,49.066667,28.44166
+AIRF,Ternopil International Airport,49.5242,25.7001
+AIRF,Troits'ke Airstrip,47.6693733,30.2982862
+AIRF,Vasylkiv Air Base,50.233299255371094,30.299999237060547
+AIRF,Vesele Airport,47.0369,34.91204
+AIRF,Valeryanivka Airfield,47.6288427809,37.399778366099994
+AIRF,Zabroshennyy Airport,49.532738,29.887719
+AIRF,Zhovtneve Air Base,50.9109992980957,24.45199966430664
+AIRF,Voroniv Airfield,50.695956,26.699958
+AIRF,Voznesensk Air Base,47.509998,31.254999
+AIRF,Yenakiyeve Airfield,48.179565,38.201866
+AIRF,Yevpatoriya Airport,45.225601,33.376701
+AIRF,Zahnitkiv Airstrip,48.0351886,28.9258992
+AIRH,Zmiyinyy Island Helipad,45.255778,30.201306
+AIRH,State House #10 (M S Gorbachev Dacha) (Foros) Heliport,44.391897,33.753988
+AIRH,Kyiv Challenge Heliport,50.406424,30.579473
+AIRH,Yuzhniy Heliport,44.57702,33.49612
+AIRH,Vychivka Helicopter Base,51.8205394,26.2873632
+AIRH,Yalta Heliport,44.485596,34.13744
+AIRH,State House #9 (Oliva) Heliport,44.4074,33.8539
+AIRH,State House #8 (Berehove) Heliport,44.4045,33.8663
+AIRH,Yalta North Helipad,44.511515,34.155678
+AIRH,Yuzhne Heliport,46.61731,31.11865
+AIRM,Kryvyi Rih International Airport,48.04330062866211,33.209999084472656
+AIRM,Rivne International Airport,50.60710144042969,26.141599655151367
+AIRM,Kherson International Airport,46.6758,32.506401
+AIRM,Mariupol International Airport,47.07609939575195,37.44960021972656
+AIRM,Mykolaiv International Airport,47.057899,31.9198
+AIRM,Bila Tserkva Air Base,49.795228,30.024435
+AIRM,Cherkasy International Airport,49.41559982299805,31.99530029296875
+AIRM,Dzhankoy Airport,45.700901,34.4189
+AIRM,Kacha Air Base,44.779764,33.572245
+AIRM,Khmelnytskyi Airport,49.359699,26.933399
+AIRM,Kirovskoe Air Base,45.16699981689453,35.18299865722656
+AIRM,Melitopol Air Base,46.880001,35.305
+AIRM,Nizhyn Air Base,51.088535,31.870995
+AIRM,Saky Air Base,45.090611,33.598536
+AIRM,Oktyabrskoe Air Base,45.31999969482422,34.099998474121094
+AIRM,Gvardeyskoe Air Base,45.116192,33.976625
+AIRM,Ozerne Air Base,50.158298,28.7383
+AIRF,Filiutka,49.335903,29.270067
+AIRF,Andrushivka,50.0193428,28.9912024
+AIRF,Kosino Spa Resort,48.253128,22.49937
+AIRF,Pidhirya Airfield,48.788823,24.476531
+AIRF,Pidverbtsi Airstrip,48.78682,25.217443
+AIRF,Ksaverivka Airfield,50.005647,30.197924
+AIRF,Palianychyntsi Airstrip,50.0129543,29.9795159
+AIRF,Aerodrom Belz,50.3771921,23.9648804
+AIRF,Drohobych Airfield,49.3662916,23.5683736
+AIRF,Frunzivka Airstrip,47.3313702,29.7908674
+AIRF,Anan'iv Airstrip,47.6796995,29.9669261
+AIRF,Iziaslav,50.1196431,26.8681069
+AIRF,Artsyz Air Base,45.945829,29.376832
+AIRF,Bekhtery Airfield,46.232,32.292
+AIRF,Borodyanka Aerodrome,50.6661,29.9329
+AIRF,Brody Air Base,50.130001068115234,25.170000076293945
+AIRF,Buzova Glider Field,50.401711,30.053718
+AIRF,Chaplynka Airport,46.34539,33.54191
+AIRF,Chernihiv Air Base,51.547537,31.309374
+AIRF,Chuhuiv Air Base,49.8382,36.641201
+AIRF,Kam'yanka Airfield,48.552552,35.01729
+AIRF,Dobrianka Airfield,52.082491,31.121171
+AIRF,Dubno Air Base,50.45000076293945,25.83329963684082
+AIRF,Dymer Airstrip,51.0071035,29.9782477
+AIRF,Gogoliv Airfield,50.515308,31.046581
+AIRF,Jagellon Airfield,49.7379,23.6689
+AIRF,Hardyshivka Airstrip,49.898809,28.436614
+AIRF,Chernihiv West Airfield,51.5196,30.955
+AIRF,Hlukhiv Airport,51.68335,33.87135
+AIRF,Kryzhopil Airstrip,48.35874,28.860397
+AIRF,Kalynivka Air Base,49.485372,28.539097
+AIRF,Kam'yanets'-Podil's'kyi Airfield,48.695634,26.609469
+AIRF,Kerch Airport,45.372501373291016,36.40140151977539
+AIRF,Kharkiv North Airport,50.025002,36.268902
+AIRF,Kirovograd Airport,48.54280090332031,32.28499984741211
+AIRF,Kanatove Air Base,48.561364587499995,32.3872071505
+AIRF,Kobelyachok Airstrip,49.0522143,33.7993478
+AIRF,Konotop Air Base,51.25,33.1500015259
+AIRF,Korostelivka Airstrip,50.557511,28.781421
+AIRF,Kramatorsk Airport,48.706799,37.630922
+AIRF,Chervonobirka Airstrip,50.588009,29.264402
+AIRF,Risovoye Airfield,45.995499,33.681017
+AIRF,Kakhnovka Airfield,49.136799,33.477893
+AIRF,Kremydivka Airfield,46.758049,30.792846
+AIRF,Chervonoarmiis'ke Airstrip,45.791888,28.72434
+AIRF,Lanivtsi Airstrip,49.84537,26.116193
+AIRF,Lazume Airfield,46.0838,32.5075
+AIRF,Lidavo Airstrip,50.4681472,26.2177308
+AIRF,Lokhvitsya Airfield,50.346,33.296
+AIRF,Luhansk Aviation Sports Club Airfield,48.50259,39.150295
+AIRF,Lutsk Airport,50.678404,25.487165
+AIRF,Lutsk Air Base,50.788683025299996,25.3482913971
+AIRF,Lymanske Airfield,46.668998,30.011105
+AIRF,Malyn Airstrip,50.786675,29.246711
+AIRF,Mayske Airfield,48.491944,35.625933
+AIRF,Mospyne Airfield,47.841620693900005,38.100843429600005
+AIRF,Kulbakyne Air Base,46.936433,32.098618
+AIRF,Myrhorod Air Base,49.932,33.641
+AIRF,Liman Airfield,46.57851,30.703053
+AIRF,Nalyvaikivka Airfield,50.479167,29.735833
+AIRF,Nova Vasylivka Airstrip,50.3228953,28.3612108
+AIRF,Novopavlivka Airstrip,48.13629,36.73524
+AIRF,Orekhovo Airfield,48.20211,35.021351
+AIRF,Koktebel Gliding Center,45.020896,35.206845
+AIRF,Ovruch Air Base,51.271366119384766,28.720836639404297
+AIRF,Pohrebyshche,49.4943236,29.2417992
+AIRF,Poltava Air Base,49.627,34.487
+AIRF,Korsak Airport,46.7513,35.6342
+AIRF,Pryluki Air Base,50.56669998168945,32.31669998168945
+AIRF,Prymors'k Airport,46.7441,36.32766
+AIRF,Pryvillia Airfield,46.1497,33.4064
+AIRF,Romashky Airstrip,49.7354043,30.5536534
+AIRF,Sevastopol Kozachya Bay Aerodrome / Khersones Air Base,44.578466,33.395462
+AIRF,Shevchenkove Airstrip,50.876703,29.071036
+AIRF,Shyroke Airport,46.94635,34.91222
+AIRF,Sievierodonetsk Airport,48.900926,38.54279
+AIRF,Skadovsk Airfield,46.131888,32.902506
+AIRF,Smodna Airfield,48.306675,25.14064
+AIRF,Sydorenkove Airport,49.711725,35.385783
+AIRF,Shiroke Airfield,47.9188730788,34.9574661255
+AIRH,Rafalivka Helicopter Base,51.360218,25.9194958
+AIRH,Partenit Heliport,44.586,34.3396
+AIRH,Profug Heliport,44.6511,34.3995
+AIRH,Bilohorodka Heliport,50.424592,30.272464
+AIRH,Hydropark Heliport,50.458134,30.568124
+AIRH,Mariinsky Park Heliport,50.449147,30.541149
+AIRH,Lysychansk Heliport,48.9323,38.4097
+AIRH,Mamalyha Heliport,48.2477,26.58473
+AIRH,Mezhigyrya Heliport,50.621493,30.460464
+AIRH,Oleksandriya Air Base,48.68000030517578,33.18000030517578
+AIRH,Reni Heliport,45.42554,28.29038
+AIRH,Frumushyka Heliport,46.29598,29.41779
+AIRH,Sevastopol Naval Institute Helipad,44.61029815673828,33.47949981689453
+AIRH,Kruglaya Bukhta Heliport,44.6014149349,33.4506440163
+AIRH,Demetrynskaya Street Helipad,44.5097,33.6069
+AIRH,Orlinovsky Helipad,44.4207,33.6741
+AIRH,Trakhtemyriv Heliport,49.984294,31.339095
+AIRH,Respect Hall Helipad,44.432273,34.081035
+AIRH,Mriya Resort Helipad,44.3977,33.94168
+AIRH,Internal Affairs Ministry Dacha Helipad,44.40043,33.92258
+AIRH,GK Tavriya Resort Seaside Helipad,44.4043,33.8779
+AIRH,GK Tavriya Resort Heliport,44.40605,33.88245
+AIRH,Naberezhnaya Helipad,44.39893,33.9192
+AIRH,Oreanda Heliport,44.4513,34.1293
+AIRH,Pension Wisteria Helipad,44.461824,34.145346
+AIRH,Massandra Palace Heliport,44.5145,34.2039
+AIRH,Artek Heliport,44.56059,34.307563

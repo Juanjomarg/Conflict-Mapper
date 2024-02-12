@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>
+   BBC News - World
+  </title>
+  <description>
+   BBC News - World
+  </description>
+  <link>
+   https://www.bbc.co.uk/news/
+  </link>
+  <image>
+   <url>
+    https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif
+   </url>
+   <title>
+    BBC News - World
+   </title>
+   <link>
+    https://www.bbc.co.uk/news/
+   </link>
+  </image>
+  <generator>
+   RSS for Node
+  </generator>
+  <lastBuildDate>
+   Fri, 22 Apr 2022 00:51:54 GMT
+  </lastBuildDate>
+  <copyright>
+   Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.
+  </copyright>
+  <language>
+   en-gb
+  </language>
+  <ttl>
+   15
+  </ttl>
+  <item>
+   <title>
+    Mariupol steelworks: 'We have wounded and dead inside the bunkers'
+   </title>
+   <description>
+    One of the last defenders in Mariupol tells the BBC conditions are dire but they won't surrender.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61183062?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61183062
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 22:29:02 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Mariupol: Satellite images suggest mass graves dug near besieged city
+   </title>
+   <description>
+    The satellite images appear to show more than 200 graves, as Ukraine accuses Russian troops of mass killings.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61183056?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61183056
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 18:43:22 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukraine round-up: Putin backs off storming of Azovstal as Mariupol 'mass graves' found
+   </title>
+   <description>
+    Russia's president says the Azovstal steel plant must be sealed off, and satellite images suggest mass graves.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61179734?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61179734
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 21:43:13 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    The German towns in Paraguay with a surge in European immigrants
+   </title>
+   <description>
+    Thousands of German nationals have migrated to Paraguay to escape Covid restrictions and immigration in Europe.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61184479?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61184479
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 23:25:20 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Juan Orlando Hernández: Honduran ex-leader extradited to US
+   </title>
+   <description>
+    Former President Juan Orlando Hernández is accused of involvement in a cocaine trafficking ring.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61174692?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61174692
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 23:49:02 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Have we seen peak Netflix?
+   </title>
+   <description>
+    The streaming giant is losing subscribers despite huge hits like Squid Game and Bridgerton.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-61178311?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-61178311
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 23:33:58 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Afghanistan: 'Blood and fear everywhere' after deadly IS blast
+   </title>
+   <description>
+    Dozens of people are dead or hurt in four blasts in Afghanistan, two claimed by the Islamic State.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-61174991?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-61174991
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 16:07:10 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Ukrainians injured or killed by unexploded ammunition
+   </title>
+   <description>
+    Across Ukraine’s Kyiv region, efforts have begun to clear the countless pieces of unexploded ammunition left behind after fierce fighting.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61181978?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61181978
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 23:28:00 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Haiti: Small plane crashes on to main road killing six
+   </title>
+   <description>
+    The pilot is among those who died when the aircraft came down in Haiti, injuring people on the ground.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-latin-america-61176973?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-latin-america-61176973
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 11:09:35 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Sophie Wilmes: Belgian foreign minister resigns to care for sick husband
+   </title>
+   <description>
+    Sophie Wilmes will temporarily resign to care for her husband who has been diagnosed with brain cancer.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61174351?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61174351
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 10:15:52 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Florida lawmakers have stripped Disney of special tax status
+   </title>
+   <description>
+    Governor Ron DeSantis has taken aim at Disney over its opposition to the so-called Don't Say Gay bill.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61179262?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61179262
+   </guid>
+   <pubDate>
+    Fri, 22 Apr 2022 00:05:02 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Rare tiny Brontë book could set $1.25m sale record
+   </title>
+   <description>
+    The world's first tennis guide and Amy Winehouse's library are also on offer at the NY Antiquarian Book Fair.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-61178869?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-61178869
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 15:21:25 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Rudy Giuliani revealed on The Masked Singer TV show
+   </title>
+   <description>
+    The appearance of Donald Trump's former lawyer prompted one of the show's judges to walk off.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/entertainment-arts-61173811?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/entertainment-arts-61173811
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 11:40:49 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Russia releases video of intercontinental ballistic missile launch
+   </title>
+   <description>
+    President Putin says the new Sarmat missile is food for thought for those who try to threaten Russia.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-61170853?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-61170853
+   </guid>
+   <pubDate>
+    Wed, 20 Apr 2022 20:47:02 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Mid-day meal plan struggles to feed India's hungry students
+   </title>
+   <description>
+    The world's most ambitious free school food programme resumes post pandemic, but problems remain.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61162642?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61162642
+   </guid>
+   <pubDate>
+    Fri, 22 Apr 2022 00:11:43 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Why Argentina is embracing cryptocurrency
+   </title>
+   <description>
+    The nation that has seen economic trauma is open to the possibility of alternative money like Bitcoin.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/business-60912789?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/business-60912789
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 23:09:39 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    What weapons has the US given Ukraine - and how much do they help?
+   </title>
+   <description>
+    President Biden has announced a new $800m assistance package that includes ammunition and drones.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-us-canada-60774098
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 19:26:30 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    The young rebels fighting for democracy in Myanmar
+   </title>
+   <description>
+    The BBC gained rare access to Myanmar's jungle training camps where protesters are turned into soldiers.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-61151314?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-61151314
+   </guid>
+   <pubDate>
+    Wed, 20 Apr 2022 22:52:05 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    French election: Le Pen impresses but Macron holds firm in TV debate
+   </title>
+   <description>
+    Marine Le Pen's last presidential debate was a disaster - but five years on things are different.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61171539?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61171539
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 00:58:36 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Struggling to survive in cash-starved Afghanistan
+   </title>
+   <description>
+    Eight months into Taliban rule, the economy and health services have been shattered as funding dries up.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-60926471?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-60926471
+   </guid>
+   <pubDate>
+    Wed, 20 Apr 2022 23:53:08 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    France election: What far-right leader Marine Le Pen said before… and now
+   </title>
+   <description>
+    Has Marine Le Pen's strong views on immigration, the EU and Nato shifted since the last election?
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-europe-61168776?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-europe-61168776
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 23:20:07 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Jacinda Ardern on China, Aukus and leadership
+   </title>
+   <description>
+    New Zealand's PM sat down with the BBC to discuss everything from China to her wedding.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-61161660?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-61161660
+   </guid>
+   <pubDate>
+    Thu, 21 Apr 2022 00:11:24 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    The Zomato and Swiggy riders risking their lives to deliver food in 10 minutes
+   </title>
+   <description>
+    The BBC followed overworked delivery riders as they raced against time to take food to customers.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-asia-india-61147690
+   </guid>
+   <pubDate>
+    Tue, 19 Apr 2022 23:03:16 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Climate change, albinism and me
+   </title>
+   <description>
+    Coco shares her experience of living with albinism in Nigeria.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-africa-61150865
+   </guid>
+   <pubDate>
+    Tue, 19 Apr 2022 23:01:46 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Wayne Quilliam: Photographing the diversity of Aboriginal Australia
+   </title>
+   <description>
+    Australia has hundreds of Indigenous groups - and Wayne Quilliam is hoping to photograph them all.
+   </description>
+   <link>
+    https://www.bbc.co.uk/news/world-australia-61033360?at_medium=RSS&amp;at_campaign=KARANGA
+   </link>
+   <guid isPermaLink="false">
+    https://www.bbc.co.uk/news/world-australia-61033360
+   </guid>
+   <pubDate>
+    Mon, 18 Apr 2022 16:18:26 GMT
+   </pubDate>
+  </item>
+ </channel>
+</rss>
